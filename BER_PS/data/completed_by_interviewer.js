@@ -1,0 +1,335 @@
+let completed_by_interviewer = `[
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-03-31",
+        "completed_interviews": 58,
+        "download_time": "24-05-2023 10:07:47"
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-04-01",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-04-05",
+        "completed_interviews": 38
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-04-07",
+        "completed_interviews": 13
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-04-16",
+        "completed_interviews": 38
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-04-29",
+        "completed_interviews": 32
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-05-06",
+        "completed_interviews": 5
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-05-12",
+        "completed_interviews": 2
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-05-18",
+        "completed_interviews": 23
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-05-20",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-05-21",
+        "completed_interviews": 22
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-05-23",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 2,
+        "Interview_Date": "2023-04-29",
+        "completed_interviews": 36
+    },
+    {
+        "InterviewerID": 2,
+        "Interview_Date": "2023-04-30",
+        "completed_interviews": 50
+    },
+    {
+        "InterviewerID": 2,
+        "Interview_Date": "2023-05-01",
+        "completed_interviews": 66
+    },
+    {
+        "InterviewerID": 2,
+        "Interview_Date": "2023-05-11",
+        "completed_interviews": 51
+    },
+    {
+        "InterviewerID": 10,
+        "Interview_Date": "2023-04-05",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 10,
+        "Interview_Date": "2023-05-02",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-01",
+        "completed_interviews": 45
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-04",
+        "completed_interviews": 49
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-05",
+        "completed_interviews": 49
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-10",
+        "completed_interviews": 41
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-11",
+        "completed_interviews": 53
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-17",
+        "completed_interviews": 50
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-18",
+        "completed_interviews": 36
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-19",
+        "completed_interviews": 49
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-25",
+        "completed_interviews": 32
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-04-29",
+        "completed_interviews": 49
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-01",
+        "completed_interviews": 50
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-02",
+        "completed_interviews": 49
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-08",
+        "completed_interviews": 41
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-09",
+        "completed_interviews": 36
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-10",
+        "completed_interviews": 50
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-12",
+        "completed_interviews": 49
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-13",
+        "completed_interviews": 46
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-14",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-17",
+        "completed_interviews": 31
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-19",
+        "completed_interviews": 51
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-20",
+        "completed_interviews": 37
+    },
+    {
+        "InterviewerID": 11,
+        "Interview_Date": "2023-05-24",
+        "completed_interviews": 25
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-04-05",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-04-11",
+        "completed_interviews": 50
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-04-14",
+        "completed_interviews": 50
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-04-19",
+        "completed_interviews": 62
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-04-21",
+        "completed_interviews": 63
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-04-26",
+        "completed_interviews": 60
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-05-12",
+        "completed_interviews": 46
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-05-16",
+        "completed_interviews": 35
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-05-18",
+        "completed_interviews": 44
+    },
+    {
+        "InterviewerID": 12,
+        "Interview_Date": "2023-05-23",
+        "completed_interviews": 46
+    },
+    {
+        "InterviewerID": 14,
+        "Interview_Date": "2023-03-31",
+        "completed_interviews": 52
+    },
+    {
+        "InterviewerID": 15,
+        "Interview_Date": "2023-05-21",
+        "completed_interviews": 46
+    },
+    {
+        "InterviewerID": 16,
+        "Interview_Date": "2023-05-21",
+        "completed_interviews": 37
+    },
+    {
+        "InterviewerID": 17,
+        "Interview_Date": "2023-05-16",
+        "completed_interviews": 28
+    },
+    {
+        "InterviewerID": 19,
+        "Interview_Date": "2023-05-16",
+        "completed_interviews": 25
+    },
+    {
+        "InterviewerID": 19,
+        "Interview_Date": "2023-05-24",
+        "completed_interviews": 24
+    },
+    {
+        "InterviewerID": 20,
+        "Interview_Date": "2023-05-16",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 20,
+        "Interview_Date": "2023-05-20",
+        "completed_interviews": 34
+    },
+    {
+        "InterviewerID": 21,
+        "Interview_Date": "2023-05-20",
+        "completed_interviews": 30
+    },
+    {
+        "InterviewerID": 22,
+        "Interview_Date": "2023-05-23",
+        "completed_interviews": 31
+    },
+    {
+        "InterviewerID": 998,
+        "Interview_Date": "2023-04-07",
+        "completed_interviews": 30
+    },
+    {
+        "InterviewerID": 998,
+        "Interview_Date": "2023-04-11",
+        "completed_interviews": 49
+    },
+    {
+        "InterviewerID": 998,
+        "Interview_Date": "2023-05-06",
+        "completed_interviews": 13
+    },
+    {
+        "InterviewerID": 998,
+        "Interview_Date": "2023-05-08",
+        "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 998,
+        "Interview_Date": "2023-05-13",
+        "completed_interviews": 47
+    },
+    {
+        "InterviewerID": 998,
+        "Interview_Date": "2023-05-14",
+        "completed_interviews": 32
+    }
+]    
+
+ `;

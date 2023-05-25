@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "25-05-2023 09:57:51"
+        "download_time": "25-05-2023 10:07:51"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -26966,7 +26966,7 @@ let interview_data_raw = `[
     },
     {
         "InterviewId": "3570e063-b7bd-4b8b-8113-41150b554b06",
-        "InterviewEndDate": "2023-05-25 10:41:26",
+        "InterviewEndDate": "2023-05-25 11:00:11",
         "InterviewState": "Completed",
         "Flight": "LO236",
         "Dest": "WAW",

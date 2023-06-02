@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "02-06-2023 21:17:59"
+        "download_time": "02-06-2023 21:28:09"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -73873,15 +73873,6 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
-        "InterviewId": "c07f42b2-7e17-4548-9009-c7e88a8dc9b9",
-        "InterviewEndDate": "2023-04-16 11:38:47",
-        "InterviewState": "Completed",
-        "Flight": "SN203",
-        "Dest": "BJL",
-        "AirlineCode": "",
-        "InterviewerID": 4
-    },
-    {
         "InterviewId": "eef903de-2c87-4220-b4a9-c22d66ca1a03",
         "InterviewEndDate": "2023-04-16 12:31:07",
         "InterviewState": "Completed",
@@ -80965,6 +80956,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "a9196016-82dd-4464-ab06-befc7f13a480",
+        "InterviewEndDate": "2023-06-02 22:17:46",
+        "InterviewState": "Completed",
+        "Flight": "ET733",
+        "Dest": "ADD",
+        "AirlineCode": "",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "39626347-5217-42b2-88c7-d7d0863003bd",
         "InterviewEndDate": "2023-04-01 11:21:05",
         "InterviewState": "Completed",
@@ -82659,6 +82659,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "8591713b-4d04-4872-a56c-dca1d9537f24",
         "InterviewEndDate": "2023-04-16 11:37:18",
+        "InterviewState": "Completed",
+        "Flight": "SN203",
+        "Dest": "BJL",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "c07f42b2-7e17-4548-9009-c7e88a8dc9b9",
+        "InterviewEndDate": "2023-04-16 11:38:47",
         "InterviewState": "Completed",
         "Flight": "SN203",
         "Dest": "BJL",
@@ -88307,15 +88316,6 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "",
         "InterviewerID": 2
-    },
-    {
-        "InterviewId": "8ec6c0f6-7b9b-4604-9873-dd45d06d74e2",
-        "InterviewEndDate": "2023-05-22 20:05:37",
-        "InterviewState": "Completed",
-        "Flight": "AZ153",
-        "Dest": "LIN",
-        "AirlineCode": "",
-        "InterviewerID": 1
     },
     {
         "InterviewId": "950b1c35-0eca-403b-84bf-c92c7502aadd",

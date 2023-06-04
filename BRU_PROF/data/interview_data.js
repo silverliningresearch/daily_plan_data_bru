@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "04-06-2023 12:28:00"
+        "download_time": "04-06-2023 12:37:58"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -90451,15 +90451,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "4a91fc52-45b8-4672-b80f-efebe241d4eb",
-        "InterviewEndDate": "2023-04-07 16:31:15",
-        "InterviewState": "Completed",
-        "Flight": "TP643",
-        "Dest": "LIS",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "8f7739d1-546d-4703-8739-eba4b8f6076f",
         "InterviewEndDate": "2023-04-07 18:07:08",
         "InterviewState": "Completed",
@@ -98965,6 +98956,15 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
+        "InterviewId": "0ded5ef4-4c5c-414a-8e1f-dbb48883efe9",
+        "InterviewEndDate": "2023-06-04 13:36:22",
+        "InterviewState": "Completed",
+        "Flight": "HU492",
+        "Dest": "PEK",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -99494,6 +99494,15 @@ let interview_data_raw = `[
         "Dest": "TUN",
         "AirlineCode": "",
         "InterviewerID": 4
+    },
+    {
+        "InterviewId": "4a91fc52-45b8-4672-b80f-efebe241d4eb",
+        "InterviewEndDate": "2023-04-07 16:31:15",
+        "InterviewState": "Completed",
+        "Flight": "TP643",
+        "Dest": "LIS",
+        "AirlineCode": "",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "d8b44f03-44e5-4499-af01-f663ce481cbe",

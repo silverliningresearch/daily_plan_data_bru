@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "04-06-2023 16:37:59"
+        "download_time": "04-06-2023 16:48:05"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -98299,15 +98299,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "eaa56e87-e22d-49cd-9905-ef7b80f13ffc",
-        "InterviewEndDate": "2023-05-29 15:35:48",
-        "InterviewState": "Completed",
-        "Flight": "HV9007",
-        "Dest": "FAO",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "a5315260-a05a-47e1-acf3-e61fc19874ea",
         "InterviewEndDate": "2023-05-29 16:26:44",
         "InterviewState": "Completed",
@@ -98963,6 +98954,15 @@ let interview_data_raw = `[
         "Dest": "PEK",
         "AirlineCode": "",
         "InterviewerID": 4
+    },
+    {
+        "InterviewId": "8e4eef0f-ea07-439a-8c61-ec08dd480642",
+        "InterviewEndDate": "2023-06-04 17:43:28",
+        "InterviewState": "Completed",
+        "Flight": "HV9003",
+        "Dest": "ALC",
+        "AirlineCode": "",
+        "InterviewerID": 8
     },
     {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
@@ -105180,6 +105180,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "SN3809",
         "Dest": "OPO",
+        "AirlineCode": "",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "eaa56e87-e22d-49cd-9905-ef7b80f13ffc",
+        "InterviewEndDate": "2023-05-29 15:35:48",
+        "InterviewState": "Completed",
+        "Flight": "HV9007",
+        "Dest": "FAO",
         "AirlineCode": "",
         "InterviewerID": 1
     },

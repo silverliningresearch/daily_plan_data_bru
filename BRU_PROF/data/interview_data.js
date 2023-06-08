@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "08-06-2023 15:18:17"
+        "download_time": "08-06-2023 15:28:16"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -88894,15 +88894,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "6a836fe7-599e-4115-93c9-d107b5b72edd",
-        "InterviewEndDate": "2023-05-29 19:13:09",
-        "InterviewState": "Completed",
-        "Flight": "SK1590",
-        "Dest": "ARN",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "630473f3-388a-4369-bbce-cf49043fc725",
         "InterviewEndDate": "2023-05-29 20:20:27",
         "InterviewState": "Completed",
@@ -89963,6 +89954,15 @@ let interview_data_raw = `[
         "Dest": "MUC",
         "AirlineCode": "",
         "InterviewerID": 4
+    },
+    {
+        "InterviewId": "df98bc53-8e1b-43d8-be69-d04371afd0de",
+        "InterviewEndDate": "2023-06-08 16:18:06",
+        "InterviewState": "Completed",
+        "Flight": "FR2917",
+        "Dest": "BCN",
+        "AirlineCode": "",
+        "InterviewerID": 5
     },
     {
         "InterviewId": "39626347-5217-42b2-88c7-d7d0863003bd",
@@ -97318,15 +97318,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "f12eeb23-c35a-418f-a0cb-e603b90c5b35",
-        "InterviewEndDate": "2023-05-24 20:35:06",
-        "InterviewState": "Completed",
-        "Flight": "LX789",
-        "Dest": "ZRH",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "64da1209-6724-4f4b-9dda-d6e763e98a6b",
         "InterviewEndDate": "2023-05-24 21:04:14",
         "InterviewState": "Completed",
@@ -97944,6 +97935,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR5235",
         "Dest": "PSA",
+        "AirlineCode": "",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "6a836fe7-599e-4115-93c9-d107b5b72edd",
+        "InterviewEndDate": "2023-05-29 19:13:09",
+        "InterviewState": "Completed",
+        "Flight": "SK1590",
+        "Dest": "ARN",
         "AirlineCode": "",
         "InterviewerID": 1
     },

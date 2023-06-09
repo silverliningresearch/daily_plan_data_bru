@@ -3602,7 +3602,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2007"
+  "GateStartTime": "2010"
  },
  {
   "Date": "09-06-2023",
@@ -3789,7 +3789,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "2000"
+  "GateStartTime": "2019"
  },
  {
   "Date": "09-06-2023",
@@ -3806,7 +3806,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "6",
-  "GateStartTime": "1957"
+  "GateStartTime": "2024"
  },
  {
   "Date": "09-06-2023",
@@ -3823,7 +3823,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "66",
-  "GateStartTime": "2015"
+  "GateStartTime": "2044"
  },
  {
   "Date": "09-06-2023",
@@ -3840,7 +3840,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "61",
-  "GateStartTime": "1942"
+  "GateStartTime": "2003"
  },
  {
   "Date": "09-06-2023",
@@ -3857,7 +3857,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "2000"
+  "GateStartTime": "2005"
  },
  {
   "Date": "09-06-2023",
@@ -3874,7 +3874,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "68",
-  "GateStartTime": "2015"
+  "GateStartTime": "2016"
  },
  {
   "Date": "09-06-2023",
@@ -3891,7 +3891,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "38",
-  "GateStartTime": "2020"
+  "GateStartTime": "2027"
  },
  {
   "Date": "09-06-2023",
@@ -3908,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "2015"
+  "GateStartTime": "2019"
  },
  {
   "Date": "09-06-2023",
@@ -3925,7 +3925,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "2005"
+  "GateStartTime": "2014"
  },
  {
   "Date": "09-06-2023",
@@ -3942,7 +3942,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "2020"
+  "GateStartTime": "2023"
  },
  {
   "Date": "09-06-2023",
@@ -3959,7 +3959,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "2045"
+  "GateStartTime": "2102"
  },
  {
   "Date": "09-06-2023",
@@ -3976,7 +3976,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "2025"
+  "GateStartTime": "2026"
  },
  {
   "Date": "09-06-2023",
@@ -3993,7 +3993,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "2030"
+  "GateStartTime": "2025"
  },
  {
   "Date": "09-06-2023",
@@ -4010,7 +4010,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "2035"
+  "GateStartTime": "2053"
  },
  {
   "Date": "09-06-2023",
@@ -4044,7 +4044,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "2035"
+  "GateStartTime": "2051"
  },
  {
   "Date": "09-06-2023",
@@ -4078,7 +4078,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "2045"
+  "GateStartTime": "2046"
  },
  {
   "Date": "09-06-2023",
@@ -4095,7 +4095,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "1939"
+  "GateStartTime": "2025"
  },
  {
   "Date": "09-06-2023",
@@ -4112,7 +4112,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "1954"
+  "GateStartTime": "2020"
  },
  {
   "Date": "09-06-2023",
@@ -4129,7 +4129,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "22",
-  "GateStartTime": "2045"
+  "GateStartTime": "2047"
  },
  {
   "Date": "09-06-2023",
@@ -4146,7 +4146,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "1958"
+  "GateStartTime": "2044"
  },
  {
   "Date": "09-06-2023",
@@ -4163,7 +4163,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "70",
-  "GateStartTime": "1947"
+  "GateStartTime": "2044"
  },
  {
   "Date": "09-06-2023",
@@ -4180,7 +4180,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "20",
-  "GateStartTime": "2035"
+  "GateStartTime": "2039"
  },
  {
   "Date": "09-06-2023",
@@ -4197,7 +4197,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "2050"
+  "GateStartTime": "2103"
  },
  {
   "Date": "09-06-2023",
@@ -4214,7 +4214,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "2104"
+  "GateStartTime": "2125"
  },
  {
   "Date": "09-06-2023",
@@ -4231,7 +4231,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "2050"
+  "GateStartTime": "2118"
  },
  {
   "Date": "09-06-2023",
@@ -4248,7 +4248,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "1910"
+  "GateStartTime": "2013"
  },
  {
   "Date": "09-06-2023",
@@ -4265,7 +4265,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "31",
-  "GateStartTime": "1915"
+  "GateStartTime": "2016"
  },
  {
   "Date": "09-06-2023",
@@ -4281,8 +4281,8 @@
   "Airline": "Aer Lingus",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "6",
-  "GateStartTime": "2110"
+  "GateNumber": "4",
+  "GateStartTime": "2114"
  },
  {
   "Date": "09-06-2023",
@@ -4299,7 +4299,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "10",
-  "GateStartTime": "2220"
+  "GateStartTime": "2210"
  },
  {
   "Date": "09-06-2023",
@@ -4316,11 +4316,11 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "2125"
+  "GateStartTime": "2129"
  },
  {
   "Date": "09-06-2023",
-  "Time": "2330",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -4333,11 +4333,11 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "28",
-  "GateStartTime": "2055"
+  "GateStartTime": "2124"
  },
  {
   "Date": "09-06-2023",
-  "Time": "2330",
+  "Time": "2359",
   "Dest": "BKK",
   "DestName": "Bangkok",
   "Next": "",
@@ -4350,11 +4350,11 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "1",
-  "GateStartTime": "2055"
+  "GateStartTime": "2124"
  },
  {
   "Date": "09-06-2023",
-  "Time": "2330",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -4371,7 +4371,7 @@
  },
  {
   "Date": "09-06-2023",
-  "Time": "2330",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -4554,7 +4554,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "67",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "10-06-2023",
@@ -4775,7 +4775,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "0535"
+  "GateStartTime": "0435"
  },
  {
   "Date": "10-06-2023",
@@ -4911,7 +4911,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "9",
-  "GateStartTime": "0630"
+  "GateStartTime": "0530"
  },
  {
   "Date": "10-06-2023",
@@ -4928,7 +4928,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "0645"
+  "GateStartTime": "0545"
  },
  {
   "Date": "10-06-2023",
@@ -5148,7 +5148,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "56",
+  "GateNumber": "60",
   "GateStartTime": "0845"
  },
  {
@@ -5216,7 +5216,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
+  "GateNumber": "56",
   "GateStartTime": "0855"
  },
  {

@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "09-06-2023 19:18:13"
+        "download_time": "09-06-2023 19:28:15"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -105931,15 +105931,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "add5d0c6-b106-4033-9545-f77e535e2c49",
-        "InterviewEndDate": "2023-05-22 15:14:22",
-        "InterviewState": "Completed",
-        "Flight": "AH2063",
-        "Dest": "ALG",
-        "AirlineCode": "",
-        "InterviewerID": 2
-    },
-    {
         "InterviewId": "d1bc6aa2-3a9f-404f-aaef-e94f297f338a",
         "InterviewEndDate": "2023-05-22 16:10:02",
         "InterviewState": "Completed",
@@ -107943,6 +107934,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "UX1174",
         "Dest": "MAD",
+        "AirlineCode": "",
+        "InterviewerID": 10
+    },
+    {
+        "InterviewId": "97b23a72-f64d-4040-92ce-f3ba99a732da",
+        "InterviewEndDate": "2023-06-09 20:21:08",
+        "InterviewState": "Completed",
+        "Flight": "SK4746",
+        "Dest": "OSL",
         "AirlineCode": "",
         "InterviewerID": 10
     },
@@ -110870,6 +110870,15 @@ let interview_data_raw = `[
         "Dest": "LHR",
         "AirlineCode": "",
         "InterviewerID": 4
+    },
+    {
+        "InterviewId": "add5d0c6-b106-4033-9545-f77e535e2c49",
+        "InterviewEndDate": "2023-05-22 15:14:22",
+        "InterviewState": "Completed",
+        "Flight": "AH2063",
+        "Dest": "ALG",
+        "AirlineCode": "",
+        "InterviewerID": 2
     },
     {
         "InterviewId": "eb2b0ed7-7ea1-4962-8157-f9f892843120",

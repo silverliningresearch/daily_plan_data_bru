@@ -2,6 +2,74 @@
 [
  {
   "Date": "10-06-2023",
+  "Time": "0530",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F020",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "28",
+  "GateStartTime": "0255"
+ },
+ {
+  "Date": "10-06-2023",
+  "Time": "0530",
+  "Dest": "BKK",
+  "DestName": "Bangkok",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0F022",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "B",
+  "GateNumber": "1",
+  "GateStartTime": "0255"
+ },
+ {
+  "Date": "10-06-2023",
+  "Time": "0530",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F081",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
+ },
+ {
+  "Date": "10-06-2023",
+  "Time": "0530",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F082",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
+ },
+ {
+  "Date": "10-06-2023",
   "Time": "0550",
   "Dest": "ATH",
   "DestName": "Athens",
@@ -15,7 +83,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "0505"
+  "GateStartTime": "0405"
  },
  {
   "Date": "10-06-2023",
@@ -117,7 +185,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "68",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "10-06-2023",
@@ -219,7 +287,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "10-06-2023",
@@ -270,7 +338,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "40",
-  "GateStartTime": "0520"
+  "GateStartTime": "0420"
  },
  {
   "Date": "10-06-2023",
@@ -321,7 +389,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "0525"
+  "GateStartTime": "0425"
  },
  {
   "Date": "10-06-2023",
@@ -338,7 +406,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "0530"
+  "GateStartTime": "0430"
  },
  {
   "Date": "10-06-2023",
@@ -627,7 +695,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "0715"
+  "GateStartTime": "0615"
  },
  {
   "Date": "10-06-2023",
@@ -644,7 +712,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "0755"
+  "GateStartTime": "0655"
  },
  {
   "Date": "10-06-2023",
@@ -1987,7 +2055,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "1135"
+  "GateStartTime": "1035"
  },
  {
   "Date": "10-06-2023",
@@ -2207,7 +2275,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
+  "GateNumber": "58",
   "GateStartTime": "1330"
  },
  {
@@ -2734,7 +2802,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "58",
+  "GateNumber": "64",
   "GateStartTime": "1515"
  },
  {
@@ -2785,7 +2853,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
+  "GateNumber": "58",
   "GateStartTime": "1540"
  },
  {
@@ -3239,9 +3307,43 @@
   "NextName": "",
   "Schengen": "N",
   "FlightType": "J",
+  "Flight": "T0B001",
+  "AirlineCode": "T0B",
+  "Airline": "Test Company Aviapar",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "10-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
   "Flight": "T0R001",
   "AirlineCode": "T0R",
   "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "10-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0S001",
+  "AirlineCode": "T0S",
+  "Airline": "Test Company Alyzia",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -3822,7 +3924,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "8",
+  "GateNumber": "5",
   "GateStartTime": "0530"
  },
  {
@@ -7071,6 +7173,23 @@
   "GateZone": "A",
   "GateNumber": "43",
   "GateStartTime": "1915"
+ },
+ {
+  "Date": "11-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0R001",
+  "AirlineCode": "T0R",
+  "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
  },
  {
   "Date": "11-06-2023",

@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "11-06-2023 11:48:08"
+        "download_time": "11-06-2023 11:58:04"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -98983,15 +98983,6 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
-        "InterviewId": "a738dd6c-a769-43c5-a9a5-f34866a83105",
-        "InterviewEndDate": "2023-04-01 14:25:49",
-        "InterviewState": "Completed",
-        "Flight": "TB2711",
-        "Dest": "NBE",
-        "AirlineCode": "",
-        "InterviewerID": 4
-    },
-    {
         "InterviewId": "113e21db-6e97-40d6-867d-f115e007d8f7",
         "InterviewEndDate": "2023-04-01 14:58:33",
         "InterviewState": "Completed",
@@ -107956,6 +107947,24 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "668fdb01-e10b-4e50-8be2-dfe37ca6317f",
+        "InterviewEndDate": "2023-06-11 12:51:00",
+        "InterviewState": "Completed",
+        "Flight": "SN3703",
+        "Dest": "BCN",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "3398f481-104d-4e0a-9dcd-ec7d17674db0",
+        "InterviewEndDate": "2023-06-11 12:56:03",
+        "InterviewState": "Completed",
+        "Flight": "SN3703",
+        "Dest": "BCN",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -108006,6 +108015,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "HU492",
         "Dest": "PEK",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "a738dd6c-a769-43c5-a9a5-f34866a83105",
+        "InterviewEndDate": "2023-04-01 14:25:49",
+        "InterviewState": "Completed",
+        "Flight": "TB2711",
+        "Dest": "NBE",
         "AirlineCode": "",
         "InterviewerID": 4
     },

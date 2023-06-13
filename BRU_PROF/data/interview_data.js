@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "13-06-2023 18:18:15"
+        "download_time": "13-06-2023 18:28:23"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -4337,15 +4337,6 @@ let interview_data_raw = `[
         "Dest": "BER",
         "AirlineCode": "",
         "InterviewerID": 1
-    },
-    {
-        "InterviewId": "8d81bca8-dbc5-493c-88c9-12ee93e76659",
-        "InterviewEndDate": "2023-05-05 17:36:05",
-        "InterviewState": "Completed",
-        "Flight": "TB2963",
-        "Dest": "PRN",
-        "AirlineCode": "",
-        "InterviewerID": 10
     },
     {
         "InterviewId": "2faa7653-0f96-4584-8e20-074540eb8f7c",
@@ -8983,6 +8974,15 @@ let interview_data_raw = `[
         "InterviewerID": 8
     },
     {
+        "InterviewId": "cf73f450-df26-4809-8fa7-04e4dfd3b530",
+        "InterviewEndDate": "2023-06-13 19:16:52",
+        "InterviewState": "Completed",
+        "Flight": "ET731",
+        "Dest": "ADD",
+        "AirlineCode": "",
+        "InterviewerID": 8
+    },
+    {
         "InterviewId": "d631a8db-753d-49dd-8078-2222a21b594b",
         "InterviewEndDate": "2023-04-01 13:13:23",
         "InterviewState": "Completed",
@@ -9717,15 +9717,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EY058",
         "Dest": "AUH",
-        "AirlineCode": "",
-        "InterviewerID": 9
-    },
-    {
-        "InterviewId": "852c6da8-e156-47e2-969d-26cd9deae5f1",
-        "InterviewEndDate": "2023-04-10 15:21:33",
-        "InterviewState": "Completed",
-        "Flight": "EK184",
-        "Dest": "DXB",
         "AirlineCode": "",
         "InterviewerID": 9
     },
@@ -13634,6 +13625,15 @@ let interview_data_raw = `[
         "Dest": "GVA",
         "AirlineCode": "",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "8d81bca8-dbc5-493c-88c9-12ee93e76659",
+        "InterviewEndDate": "2023-05-05 17:36:05",
+        "InterviewState": "Completed",
+        "Flight": "TB2963",
+        "Dest": "PRN",
+        "AirlineCode": "",
+        "InterviewerID": 10
     },
     {
         "InterviewId": "155fea3f-e3cd-4acb-a45d-140e2782c901",

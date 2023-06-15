@@ -2,7 +2,7 @@
 [
  {
   "Date": "15-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -15,11 +15,11 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "28",
-  "GateStartTime": "0125"
+  "GateStartTime": "0255"
  },
  {
   "Date": "15-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "BKK",
   "DestName": "Bangkok",
   "Next": "",
@@ -32,11 +32,11 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "1",
-  "GateStartTime": "0125"
+  "GateStartTime": "0255"
  },
  {
   "Date": "15-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -53,7 +53,7 @@
  },
  {
   "Date": "15-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -338,7 +338,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "0535"
+  "GateStartTime": "0435"
  },
  {
   "Date": "15-06-2023",
@@ -440,7 +440,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "0605"
+  "GateStartTime": "0505"
  },
  {
   "Date": "15-06-2023",
@@ -3647,9 +3647,43 @@
   "NextName": "",
   "Schengen": "N",
   "FlightType": "J",
+  "Flight": "T0B001",
+  "AirlineCode": "T0B",
+  "Airline": "Test Company Aviapar",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "15-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
   "Flight": "T0R001",
   "AirlineCode": "T0R",
   "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "15-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0S001",
+  "AirlineCode": "T0S",
+  "Airline": "Test Company Alyzia",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -7938,6 +7972,23 @@
   "GateZone": "A",
   "GateNumber": "49",
   "GateStartTime": "1915"
+ },
+ {
+  "Date": "16-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0R001",
+  "AirlineCode": "T0R",
+  "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
  },
  {
   "Date": "16-06-2023",

@@ -2055,7 +2055,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "6",
-  "GateStartTime": "1432"
+  "GateStartTime": "1507"
  },
  {
   "Date": "16-06-2023",
@@ -2293,7 +2293,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "1340"
+  "GateStartTime": "1419"
  },
  {
   "Date": "16-06-2023",
@@ -2344,7 +2344,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "1415"
+  "GateStartTime": "1432"
  },
  {
   "Date": "16-06-2023",
@@ -2361,7 +2361,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "1405"
+  "GateStartTime": "1409"
  },
  {
   "Date": "16-06-2023",
@@ -2395,7 +2395,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "1400"
+  "GateStartTime": "1421"
  },
  {
   "Date": "16-06-2023",
@@ -2412,7 +2412,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "4",
-  "GateStartTime": "1415"
+  "GateStartTime": "1430"
  },
  {
   "Date": "16-06-2023",
@@ -2429,7 +2429,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "68",
-  "GateStartTime": "1410"
+  "GateStartTime": "1426"
  },
  {
   "Date": "16-06-2023",
@@ -2463,7 +2463,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "1420"
+  "GateStartTime": "1539"
  },
  {
   "Date": "16-06-2023",
@@ -2480,7 +2480,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "1315"
+  "GateStartTime": "1415"
  },
  {
   "Date": "16-06-2023",
@@ -2497,7 +2497,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "1315"
+  "GateStartTime": "1428"
  },
  {
   "Date": "16-06-2023",
@@ -2514,7 +2514,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "63",
-  "GateStartTime": "1420"
+  "GateStartTime": "1448"
  },
  {
   "Date": "16-06-2023",
@@ -2531,7 +2531,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "1425"
+  "GateStartTime": "1432"
  },
  {
   "Date": "16-06-2023",
@@ -2565,7 +2565,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "1335"
+  "GateStartTime": "1450"
  },
  {
   "Date": "16-06-2023",
@@ -2582,7 +2582,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "1335"
+  "GateStartTime": "1434"
  },
  {
   "Date": "16-06-2023",
@@ -2599,7 +2599,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "1435"
+  "GateStartTime": "1501"
  },
  {
   "Date": "16-06-2023",
@@ -2616,7 +2616,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "1445"
+  "GateStartTime": "1502"
  },
  {
   "Date": "16-06-2023",
@@ -2633,7 +2633,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1445"
+  "GateStartTime": "1455"
  },
  {
   "Date": "16-06-2023",
@@ -2650,7 +2650,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "61",
-  "GateStartTime": "1350"
+  "GateStartTime": "1455"
  },
  {
   "Date": "16-06-2023",
@@ -2667,7 +2667,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1500"
+  "GateStartTime": "1452"
  },
  {
   "Date": "16-06-2023",
@@ -2684,7 +2684,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "10",
-  "GateStartTime": "1359"
+  "GateStartTime": "1454"
  },
  {
   "Date": "16-06-2023",
@@ -2701,7 +2701,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "1455"
+  "GateStartTime": "1537"
  },
  {
   "Date": "16-06-2023",
@@ -2751,8 +2751,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "58",
-  "GateStartTime": "1753"
+  "GateNumber": "56",
+  "GateStartTime": "1555"
  },
  {
   "Date": "16-06-2023",
@@ -2769,7 +2769,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "1510"
+  "GateStartTime": "1430"
  },
  {
   "Date": "16-06-2023",
@@ -2786,7 +2786,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "14",
-  "GateStartTime": "1510"
+  "GateStartTime": "1522"
  },
  {
   "Date": "16-06-2023",
@@ -2803,7 +2803,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "1530"
+  "GateStartTime": "1534"
  },
  {
   "Date": "16-06-2023",
@@ -2820,7 +2820,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "4",
-  "GateStartTime": "1550"
+  "GateStartTime": "1541"
  },
  {
   "Date": "16-06-2023",
@@ -2854,7 +2854,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "1540"
+  "GateStartTime": "1554"
  },
  {
   "Date": "16-06-2023",
@@ -2871,7 +2871,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "1545"
+  "GateStartTime": "1556"
  },
  {
   "Date": "16-06-2023",
@@ -2888,7 +2888,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "66",
-  "GateStartTime": "1545"
+  "GateStartTime": "1556"
  },
  {
   "Date": "16-06-2023",
@@ -2905,7 +2905,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "1545"
+  "GateStartTime": "1527"
  },
  {
   "Date": "16-06-2023",
@@ -2922,7 +2922,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "1405"
+  "GateStartTime": "1456"
  },
  {
   "Date": "16-06-2023",
@@ -2939,7 +2939,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "1550"
+  "GateStartTime": "1554"
  },
  {
   "Date": "16-06-2023",
@@ -2956,7 +2956,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "1550"
+  "GateStartTime": "1549"
  },
  {
   "Date": "16-06-2023",
@@ -2973,7 +2973,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "1555"
+  "GateStartTime": "1505"
  },
  {
   "Date": "16-06-2023",
@@ -2990,7 +2990,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "1555"
+  "GateStartTime": "1605"
  },
  {
   "Date": "16-06-2023",
@@ -3006,8 +3006,8 @@
   "Airline": "Aer Lingus",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "8",
-  "GateStartTime": "1615"
+  "GateNumber": "6",
+  "GateStartTime": "1710"
  },
  {
   "Date": "16-06-2023",
@@ -3024,7 +3024,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1645"
+  "GateStartTime": "1655"
  },
  {
   "Date": "16-06-2023",
@@ -3074,8 +3074,8 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "9",
-  "GateStartTime": "1620"
+  "GateNumber": "17",
+  "GateStartTime": "1536"
  },
  {
   "Date": "16-06-2023",
@@ -3092,7 +3092,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "1630"
+  "GateStartTime": "1640"
  },
  {
   "Date": "16-06-2023",
@@ -3110,74 +3110,6 @@
   "GateZone": "A",
   "GateNumber": "31",
   "GateStartTime": "1535"
- },
- {
-  "Date": "16-06-2023",
-  "Time": "1730",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F020",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "28",
-  "GateStartTime": "1455"
- },
- {
-  "Date": "16-06-2023",
-  "Time": "1730",
-  "Dest": "BKK",
-  "DestName": "Bangkok",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "T0F022",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "1",
-  "GateStartTime": "1455"
- },
- {
-  "Date": "16-06-2023",
-  "Time": "1730",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F081",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
- },
- {
-  "Date": "16-06-2023",
-  "Time": "1730",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F082",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
  },
  {
   "Date": "16-06-2023",
@@ -3363,8 +3295,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "54",
-  "GateStartTime": "1745"
+  "GateNumber": "48",
+  "GateStartTime": "1805"
  },
  {
   "Date": "16-06-2023",
@@ -3380,7 +3312,7 @@
   "Airline": "Royal Air Maroc",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "17",
+  "GateNumber": "29",
   "GateStartTime": "1750"
  },
  {
@@ -3397,7 +3329,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "40",
+  "GateNumber": "62",
   "GateStartTime": "1750"
  },
  {
@@ -3414,7 +3346,7 @@
   "Airline": "Air Baltic",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "49",
+  "GateNumber": "65",
   "GateStartTime": "1810"
  },
  {
@@ -3465,7 +3397,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "48",
+  "GateNumber": "54",
   "GateStartTime": "1815"
  },
  {
@@ -3516,7 +3448,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "50",
+  "GateNumber": "40",
   "GateStartTime": "1830"
  },
  {
@@ -3567,7 +3499,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "52",
+  "GateNumber": "58",
   "GateStartTime": "1840"
  },
  {
@@ -3603,6 +3535,74 @@
   "GateZone": "A",
   "GateNumber": "56",
   "GateStartTime": "1840"
+ },
+ {
+  "Date": "16-06-2023",
+  "Time": "1930",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F020",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "28",
+  "GateStartTime": "1655"
+ },
+ {
+  "Date": "16-06-2023",
+  "Time": "1930",
+  "Dest": "BKK",
+  "DestName": "Bangkok",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0F022",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "B",
+  "GateNumber": "1",
+  "GateStartTime": "1655"
+ },
+ {
+  "Date": "16-06-2023",
+  "Time": "1930",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F081",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
+ },
+ {
+  "Date": "16-06-2023",
+  "Time": "1930",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F082",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
  },
  {
   "Date": "16-06-2023",
@@ -3925,7 +3925,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "2005"
+  "GateStartTime": "2019"
  },
  {
   "Date": "16-06-2023",
@@ -4009,7 +4009,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "48",
+  "GateNumber": "68",
   "GateStartTime": "2010"
  },
  {
@@ -4078,7 +4078,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "2015"
+  "GateStartTime": "1915"
  },
  {
   "Date": "16-06-2023",
@@ -4111,7 +4111,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "68",
+  "GateNumber": "48",
   "GateStartTime": "2020"
  },
  {
@@ -4707,7 +4707,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "57",
-  "GateStartTime": "0525"
+  "GateStartTime": "0425"
  },
  {
   "Date": "17-06-2023",
@@ -4723,7 +4723,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "59",
+  "GateNumber": "58",
   "GateStartTime": "0530"
  },
  {
@@ -4740,7 +4740,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "51",
+  "GateNumber": "59",
   "GateStartTime": "0530"
  },
  {
@@ -5301,7 +5301,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "33",
+  "GateNumber": "32",
   "GateStartTime": "0905"
  },
  {
@@ -5318,7 +5318,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "32",
+  "GateNumber": "33",
   "GateStartTime": "0905"
  },
  {
@@ -7069,7 +7069,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "42",
+  "GateNumber": "48",
   "GateStartTime": "1510"
  },
  {
@@ -7154,7 +7154,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "48",
+  "GateNumber": "44",
   "GateStartTime": "1540"
  },
  {
@@ -7188,7 +7188,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "44",
+  "GateNumber": "42",
   "GateStartTime": "1545"
  },
  {
@@ -7477,7 +7477,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "42",
+  "GateNumber": "40",
   "GateStartTime": "1830"
  },
  {
@@ -7834,7 +7834,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "20",
+  "GateNumber": "6",
   "GateStartTime": "2025"
  },
  {
@@ -7936,7 +7936,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "8",
+  "GateNumber": "10",
   "GateStartTime": "2100"
  },
  {
@@ -8021,7 +8021,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "38",
+  "GateNumber": "72",
   "GateStartTime": "0515"
  },
  {
@@ -8276,7 +8276,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "44",
+  "GateNumber": "40",
   "GateStartTime": "0540"
  },
  {
@@ -8378,7 +8378,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
+  "GateNumber": "48",
   "GateStartTime": "0610"
  },
  {
@@ -8395,7 +8395,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "40",
+  "GateNumber": "44",
   "GateStartTime": "0615"
  },
  {
@@ -8633,7 +8633,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "52",
+  "GateNumber": "60",
   "GateStartTime": "0750"
  },
  {
@@ -8820,7 +8820,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "33",
+  "GateNumber": "59",
   "GateStartTime": "0905"
  },
  {
@@ -8837,7 +8837,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "42",
+  "GateNumber": "33",
   "GateStartTime": "0905"
  },
  {
@@ -62359,13 +62359,13 @@
  {
   "Date": "01-07-2023",
   "Time": "0610",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8201",
+  "Flight": "FH8067",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -64773,23 +64773,6 @@
  {
   "Date": "01-07-2023",
   "Time": "1520",
-  "Dest": "ADB",
-  "DestName": "Izmir",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8347",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "01-07-2023",
-  "Time": "1520",
   "Dest": "AYT",
   "DestName": "Antalya",
   "Next": "",
@@ -65105,6 +65088,23 @@
   "Flight": "SN2587",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "01-07-2023",
+  "Time": "1635",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8347",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -73290,6 +73290,23 @@
  {
   "Date": "03-07-2023",
   "Time": "1550",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8081",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "03-07-2023",
+  "Time": "1550",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -73367,23 +73384,6 @@
   "Flight": "XR7683",
   "AirlineCode": "XR",
   "Airline": "Corendon Airlines Eu",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "03-07-2023",
-  "Time": "1600",
-  "Dest": "AYT",
-  "DestName": "Antalya",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8201",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -75092,13 +75092,13 @@
  {
   "Date": "04-07-2023",
   "Time": "0615",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8205",
+  "Flight": "FH8207",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -77437,23 +77437,6 @@
  },
  {
   "Date": "04-07-2023",
-  "Time": "1525",
-  "Dest": "DLM",
-  "DestName": "Dalaman",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8231",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "04-07-2023",
   "Time": "1530",
   "Dest": "BJV",
   "DestName": "Bodrum",
@@ -77889,6 +77872,23 @@
   "Flight": "EZS1530",
   "AirlineCode": "EZS",
   "Airline": "EasyJet",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "04-07-2023",
+  "Time": "1725",
+  "Dest": "DLM",
+  "DestName": "Dalaman",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8231",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -92534,13 +92534,13 @@
  {
   "Date": "08-07-2023",
   "Time": "0610",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8201",
+  "Flight": "FH8067",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -94948,23 +94948,6 @@
  {
   "Date": "08-07-2023",
   "Time": "1520",
-  "Dest": "ADB",
-  "DestName": "Izmir",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8347",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "08-07-2023",
-  "Time": "1520",
   "Dest": "DBV",
   "DestName": "Dubrovnik",
   "Next": "",
@@ -95280,6 +95263,23 @@
   "Flight": "SN2587",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "08-07-2023",
+  "Time": "1635",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8347",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -103499,6 +103499,23 @@
  {
   "Date": "10-07-2023",
   "Time": "1550",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8081",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "10-07-2023",
+  "Time": "1550",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -103576,23 +103593,6 @@
   "Flight": "XR7683",
   "AirlineCode": "XR",
   "Airline": "Corendon Airlines Eu",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "10-07-2023",
-  "Time": "1600",
-  "Dest": "AYT",
-  "DestName": "Antalya",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8201",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -105301,13 +105301,13 @@
  {
   "Date": "11-07-2023",
   "Time": "0615",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8205",
+  "Flight": "FH8207",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -107663,23 +107663,6 @@
  },
  {
   "Date": "11-07-2023",
-  "Time": "1525",
-  "Dest": "DLM",
-  "DestName": "Dalaman",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8231",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "11-07-2023",
   "Time": "1530",
   "Dest": "BJV",
   "DestName": "Bodrum",
@@ -108098,6 +108081,23 @@
   "Flight": "EZS1530",
   "AirlineCode": "EZS",
   "Airline": "EasyJet",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "11-07-2023",
+  "Time": "1725",
+  "Dest": "DLM",
+  "DestName": "Dalaman",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8231",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -122913,13 +122913,13 @@
  {
   "Date": "15-07-2023",
   "Time": "0610",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8201",
+  "Flight": "FH8067",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -125327,23 +125327,6 @@
  {
   "Date": "15-07-2023",
   "Time": "1520",
-  "Dest": "ADB",
-  "DestName": "Izmir",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8347",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "15-07-2023",
-  "Time": "1520",
   "Dest": "DBV",
   "DestName": "Dubrovnik",
   "Next": "",
@@ -125659,6 +125642,23 @@
   "Flight": "SN2587",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "15-07-2023",
+  "Time": "1635",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8347",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -133810,6 +133810,23 @@
  {
   "Date": "17-07-2023",
   "Time": "1550",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8081",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "17-07-2023",
+  "Time": "1550",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -133870,23 +133887,6 @@
   "Flight": "TP643",
   "AirlineCode": "TP",
   "Airline": "TAP Portugal",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "17-07-2023",
-  "Time": "1600",
-  "Dest": "AYT",
-  "DestName": "Antalya",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8201",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -135629,13 +135629,13 @@
  {
   "Date": "18-07-2023",
   "Time": "0615",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8205",
+  "Flight": "FH8207",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -137991,23 +137991,6 @@
  },
  {
   "Date": "18-07-2023",
-  "Time": "1525",
-  "Dest": "DLM",
-  "DestName": "Dalaman",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8231",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "18-07-2023",
   "Time": "1530",
   "Dest": "BJV",
   "DestName": "Bodrum",
@@ -138443,6 +138426,23 @@
   "Flight": "EZS1530",
   "AirlineCode": "EZS",
   "Airline": "EasyJet",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "18-07-2023",
+  "Time": "1725",
+  "Dest": "DLM",
+  "DestName": "Dalaman",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8231",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -153224,13 +153224,13 @@
  {
   "Date": "22-07-2023",
   "Time": "0610",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8201",
+  "Flight": "FH8067",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -155638,23 +155638,6 @@
  {
   "Date": "22-07-2023",
   "Time": "1520",
-  "Dest": "ADB",
-  "DestName": "Izmir",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8347",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "22-07-2023",
-  "Time": "1520",
   "Dest": "DBV",
   "DestName": "Dubrovnik",
   "Next": "",
@@ -155987,6 +155970,23 @@
   "Flight": "SN2587",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "22-07-2023",
+  "Time": "1635",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8347",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -164189,6 +164189,23 @@
  {
   "Date": "24-07-2023",
   "Time": "1550",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8081",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "24-07-2023",
+  "Time": "1550",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -164249,23 +164266,6 @@
   "Flight": "TP643",
   "AirlineCode": "TP",
   "Airline": "TAP Portugal",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "24-07-2023",
-  "Time": "1600",
-  "Dest": "AYT",
-  "DestName": "Antalya",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8201",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -166025,13 +166025,13 @@
  {
   "Date": "25-07-2023",
   "Time": "0615",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8205",
+  "Flight": "FH8207",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -168370,23 +168370,6 @@
  },
  {
   "Date": "25-07-2023",
-  "Time": "1525",
-  "Dest": "DLM",
-  "DestName": "Dalaman",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8231",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "25-07-2023",
   "Time": "1530",
   "Dest": "BJV",
   "DestName": "Bodrum",
@@ -168822,6 +168805,23 @@
   "Flight": "EZS1530",
   "AirlineCode": "EZS",
   "Airline": "EasyJet",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "25-07-2023",
+  "Time": "1725",
+  "Dest": "DLM",
+  "DestName": "Dalaman",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8231",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -183671,13 +183671,13 @@
  {
   "Date": "29-07-2023",
   "Time": "0610",
-  "Dest": "BJV",
-  "DestName": "Bodrum",
-  "Next": "",
-  "NextName": "",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "BJV",
+  "NextName": "Bodrum",
   "Schengen": "N",
   "FlightType": "C",
-  "Flight": "FH8201",
+  "Flight": "FH8067",
   "AirlineCode": "FH",
   "Airline": "Free Bird Airlines",
   "A_D": "D",
@@ -186085,23 +186085,6 @@
  {
   "Date": "29-07-2023",
   "Time": "1520",
-  "Dest": "ADB",
-  "DestName": "Izmir",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8347",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "29-07-2023",
-  "Time": "1520",
   "Dest": "DBV",
   "DestName": "Dubrovnik",
   "Next": "",
@@ -186417,6 +186400,23 @@
   "Flight": "SN2587",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "29-07-2023",
+  "Time": "1635",
+  "Dest": "ADB",
+  "DestName": "Izmir",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8347",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -194585,6 +194585,23 @@
  {
   "Date": "31-07-2023",
   "Time": "1550",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "BJV",
+  "NextName": "Bodrum",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "FH8081",
+  "AirlineCode": "FH",
+  "Airline": "Free Bird Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "31-07-2023",
+  "Time": "1550",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -194645,23 +194662,6 @@
   "Flight": "TP643",
   "AirlineCode": "TP",
   "Airline": "TAP Portugal",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "31-07-2023",
-  "Time": "1600",
-  "Dest": "AYT",
-  "DestName": "Antalya",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "FH8201",
-  "AirlineCode": "FH",
-  "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",

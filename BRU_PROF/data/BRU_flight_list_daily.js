@@ -1256,7 +1256,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "1022"
+  "GateStartTime": "1035"
  },
  {
   "Date": "17-06-2023",
@@ -1273,7 +1273,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "0932"
+  "GateStartTime": "0959"
  },
  {
   "Date": "17-06-2023",
@@ -1324,7 +1324,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "1035"
+  "GateStartTime": "1050"
  },
  {
   "Date": "17-06-2023",
@@ -1341,7 +1341,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "57",
-  "GateStartTime": "0958"
+  "GateStartTime": "1006"
  },
  {
   "Date": "17-06-2023",
@@ -1426,7 +1426,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "9",
-  "GateStartTime": "1020"
+  "GateStartTime": "1016"
  },
  {
   "Date": "17-06-2023",
@@ -1477,7 +1477,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1015"
+  "GateStartTime": "1028"
  },
  {
   "Date": "17-06-2023",
@@ -1528,7 +1528,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "4",
-  "GateStartTime": "1052"
+  "GateStartTime": "1045"
  },
  {
   "Date": "17-06-2023",
@@ -1562,7 +1562,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "0959"
+  "GateStartTime": "1036"
  },
  {
   "Date": "17-06-2023",
@@ -1579,7 +1579,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "1025"
+  "GateStartTime": "1026"
  },
  {
   "Date": "17-06-2023",
@@ -1596,7 +1596,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "1025"
+  "GateStartTime": "1028"
  },
  {
   "Date": "17-06-2023",
@@ -1613,7 +1613,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "36",
-  "GateStartTime": "1025"
+  "GateStartTime": "1037"
  },
  {
   "Date": "17-06-2023",
@@ -1630,7 +1630,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "38",
-  "GateStartTime": "0933"
+  "GateStartTime": "1016"
  },
  {
   "Date": "17-06-2023",
@@ -1647,7 +1647,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "1035"
+  "GateStartTime": "1056"
  },
  {
   "Date": "17-06-2023",
@@ -1664,7 +1664,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "1000"
+  "GateStartTime": "1048"
  },
  {
   "Date": "17-06-2023",
@@ -1681,7 +1681,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "1040"
+  "GateStartTime": "1106"
  },
  {
   "Date": "17-06-2023",
@@ -1698,7 +1698,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "1105"
+  "GateStartTime": "1101"
  },
  {
   "Date": "17-06-2023",
@@ -1715,7 +1715,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "14",
-  "GateStartTime": "1050"
+  "GateStartTime": "1047"
  },
  {
   "Date": "17-06-2023",
@@ -1732,7 +1732,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "38",
-  "GateStartTime": "1055"
+  "GateStartTime": "1058"
  },
  {
   "Date": "17-06-2023",
@@ -1749,7 +1749,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "10",
-  "GateStartTime": "1055"
+  "GateStartTime": "1104"
  },
  {
   "Date": "17-06-2023",
@@ -1766,7 +1766,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "1100"
+  "GateStartTime": "1103"
  },
  {
   "Date": "17-06-2023",
@@ -1783,7 +1783,7 @@
   "A_D": "D",
   "GateZone": "T",
   "GateNumber": "69",
-  "GateStartTime": "0915"
+  "GateStartTime": "1057"
  },
  {
   "Date": "17-06-2023",
@@ -1800,7 +1800,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "1100"
+  "GateStartTime": "1101"
  },
  {
   "Date": "17-06-2023",
@@ -1817,7 +1817,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "1110"
+  "GateStartTime": "1106"
  },
  {
   "Date": "17-06-2023",
@@ -1834,7 +1834,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "40",
-  "GateStartTime": "0930"
+  "GateStartTime": "1043"
  },
  {
   "Date": "17-06-2023",
@@ -1851,7 +1851,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "1120"
+  "GateStartTime": "1130"
  },
  {
   "Date": "17-06-2023",
@@ -1868,7 +1868,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "1125"
+  "GateStartTime": "1115"
  },
  {
   "Date": "17-06-2023",
@@ -1885,7 +1885,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "1125"
+  "GateStartTime": "1135"
  },
  {
   "Date": "17-06-2023",
@@ -1902,7 +1902,7 @@
   "A_D": "D",
   "GateZone": "T",
   "GateNumber": "64",
-  "GateStartTime": "0945"
+  "GateStartTime": "1028"
  },
  {
   "Date": "17-06-2023",
@@ -1919,7 +1919,7 @@
   "A_D": "D",
   "GateZone": "T",
   "GateNumber": "65",
-  "GateStartTime": "0945"
+  "GateStartTime": "1122"
  },
  {
   "Date": "17-06-2023",
@@ -1935,8 +1935,8 @@
   "Airline": "Turkish Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "9",
-  "GateStartTime": "1130"
+  "GateNumber": "14",
+  "GateStartTime": "1415"
  },
  {
   "Date": "17-06-2023",
@@ -1953,7 +1953,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "1135"
+  "GateStartTime": "1140"
  },
  {
   "Date": "17-06-2023",
@@ -1969,8 +1969,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
-  "GateStartTime": "1135"
+  "GateNumber": "59",
+  "GateStartTime": "1156"
  },
  {
   "Date": "17-06-2023",
@@ -1987,7 +1987,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "6",
-  "GateStartTime": "1200"
+  "GateStartTime": "1205"
  },
  {
   "Date": "17-06-2023",
@@ -2003,8 +2003,8 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "59",
-  "GateStartTime": "1145"
+  "GateNumber": "58",
+  "GateStartTime": "1136"
  },
  {
   "Date": "17-06-2023",
@@ -2021,7 +2021,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1200"
+  "GateStartTime": "1225"
  },
  {
   "Date": "17-06-2023",
@@ -2038,7 +2038,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "1225"
+  "GateStartTime": "1151"
  },
  {
   "Date": "17-06-2023",
@@ -2055,7 +2055,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "57",
-  "GateStartTime": "1250"
+  "GateStartTime": "1225"
  },
  {
   "Date": "17-06-2023",
@@ -2072,7 +2072,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "1100"
+  "GateStartTime": "1103"
  },
  {
   "Date": "17-06-2023",
@@ -2105,76 +2105,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "40",
+  "GateNumber": "48",
   "GateStartTime": "1245"
- },
- {
-  "Date": "17-06-2023",
-  "Time": "1330",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F020",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "28",
-  "GateStartTime": "1055"
- },
- {
-  "Date": "17-06-2023",
-  "Time": "1330",
-  "Dest": "BKK",
-  "DestName": "Bangkok",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "T0F022",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "1",
-  "GateStartTime": "1055"
- },
- {
-  "Date": "17-06-2023",
-  "Time": "1330",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F081",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
- },
- {
-  "Date": "17-06-2023",
-  "Time": "1330",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F082",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
  },
  {
   "Date": "17-06-2023",
@@ -2225,7 +2157,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "9",
-  "GateStartTime": "1230"
+  "GateStartTime": "1215"
  },
  {
   "Date": "17-06-2023",
@@ -2258,7 +2190,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "58",
+  "GateNumber": "46",
   "GateStartTime": "1320"
  },
  {
@@ -2360,7 +2292,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "40",
+  "GateNumber": "48",
   "GateStartTime": "1350"
  },
  {
@@ -2378,7 +2310,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1350"
+  "GateStartTime": "1250"
  },
  {
   "Date": "17-06-2023",
@@ -2394,7 +2326,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
+  "GateNumber": "58",
   "GateStartTime": "1350"
  },
  {
@@ -2412,7 +2344,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "1305"
+  "GateStartTime": "1205"
  },
  {
   "Date": "17-06-2023",
@@ -2446,7 +2378,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1355"
+  "GateStartTime": "1415"
  },
  {
   "Date": "17-06-2023",
@@ -2479,7 +2411,7 @@
   "Airline": "Corendon Airlines Eu",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "53",
+  "GateNumber": "57",
   "GateStartTime": "1400"
  },
  {
@@ -2632,7 +2564,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "48",
+  "GateNumber": "40",
   "GateStartTime": "1425"
  },
  {
@@ -2649,7 +2581,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "57",
+  "GateNumber": "55",
   "GateStartTime": "1430"
  },
  {
@@ -2700,8 +2632,76 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "58",
+  "GateNumber": "62",
   "GateStartTime": "1440"
+ },
+ {
+  "Date": "17-06-2023",
+  "Time": "1530",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F020",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "28",
+  "GateStartTime": "1255"
+ },
+ {
+  "Date": "17-06-2023",
+  "Time": "1530",
+  "Dest": "BKK",
+  "DestName": "Bangkok",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0F022",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "B",
+  "GateNumber": "1",
+  "GateStartTime": "1255"
+ },
+ {
+  "Date": "17-06-2023",
+  "Time": "1530",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F081",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
+ },
+ {
+  "Date": "17-06-2023",
+  "Time": "1530",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F082",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
  },
  {
   "Date": "17-06-2023",
@@ -2785,7 +2785,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "50",
+  "GateNumber": "64",
   "GateStartTime": "1510"
  },
  {
@@ -2819,7 +2819,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "67",
+  "GateNumber": "63",
   "GateStartTime": "1515"
  },
  {
@@ -2870,7 +2870,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "46",
+  "GateNumber": "50",
   "GateStartTime": "1540"
  },
  {
@@ -2938,7 +2938,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "64",
+  "GateNumber": "40",
   "GateStartTime": "1620"
  },
  {
@@ -2989,7 +2989,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "40",
+  "GateNumber": "48",
   "GateStartTime": "1635"
  },
  {
@@ -3516,7 +3516,7 @@
   "Airline": "TAP Portugal",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "49",
+  "GateNumber": "53",
   "GateStartTime": "2005"
  },
  {
@@ -7936,7 +7936,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "68",
+  "GateNumber": "64",
   "GateStartTime": "0510"
  },
  {
@@ -8089,7 +8089,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "63",
+  "GateNumber": "67",
   "GateStartTime": "0520"
  },
  {
@@ -9126,7 +9126,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "28",
+  "GateNumber": "7",
   "GateStartTime": "0830"
  },
  {
@@ -9873,8 +9873,8 @@
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
   "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "14",
+  "GateZone": "T",
+  "GateNumber": "68",
   "GateStartTime": "0945"
  },
  {
@@ -20259,6 +20259,23 @@
   "Flight": "VY8985",
   "AirlineCode": "VY",
   "Airline": "Vueling",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "21-06-2023",
+  "Time": "2235",
+  "Dest": "KZR",
+  "DestName": "Kutahya",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "PC6030",
+  "AirlineCode": "PC",
+  "Airline": "Pegasus Airlines",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -111251,23 +111268,6 @@
  {
   "Date": "13-07-2023",
   "Time": "1125",
-  "Dest": "LHR",
-  "DestName": "London LHR",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "BA393",
-  "AirlineCode": "BA",
-  "Airline": "British Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "13-07-2023",
-  "Time": "1125",
   "Dest": "IST",
   "DestName": "Istanbul",
   "Next": "",
@@ -117227,23 +117227,6 @@
   "Flight": "VY8987",
   "AirlineCode": "VY",
   "Airline": "Vueling",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "14-07-2023",
-  "Time": "1735",
-  "Dest": "LHR",
-  "DestName": "London LHR",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "BA397",
-  "AirlineCode": "BA",
-  "Airline": "British Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -146008,23 +145991,6 @@
   "Flight": "PC5924",
   "AirlineCode": "PC",
   "Airline": "Pegasus Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "21-07-2023",
-  "Time": "1145",
-  "Dest": "LHR",
-  "DestName": "London LHR",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "BA393",
-  "AirlineCode": "BA",
-  "Airline": "British Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",

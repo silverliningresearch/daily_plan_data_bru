@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "18-06-2023 15:28:19"
+        "download_time": "18-06-2023 15:38:14"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -115588,15 +115588,6 @@ let interview_data_raw = `[
         "InterviewerID": 8
     },
     {
-        "InterviewId": "a1d6b795-5ddc-4913-8565-efecccdee17b",
-        "InterviewEndDate": "2023-06-04 20:28:34",
-        "InterviewState": "Completed",
-        "Flight": "A3623",
-        "Dest": "ATH",
-        "AirlineCode": "",
-        "InterviewerID": 8
-    },
-    {
         "InterviewId": "ef8eb97f-8cea-4c0d-8d21-e5c20855a2be",
         "InterviewEndDate": "2023-06-05 14:37:22",
         "InterviewState": "Completed",
@@ -116943,6 +116934,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "TB2341",
         "Dest": "RHO",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "ecde5faa-4f78-4926-8292-de0b0f1fcfc0",
+        "InterviewEndDate": "2023-06-18 16:29:35",
+        "InterviewState": "Completed",
+        "Flight": "VY8921",
+        "Dest": "VLC",
         "AirlineCode": "",
         "InterviewerID": 2
     },
@@ -123697,6 +123697,15 @@ let interview_data_raw = `[
         "InterviewerID": 8
     },
     {
+        "InterviewId": "a1d6b795-5ddc-4913-8565-efecccdee17b",
+        "InterviewEndDate": "2023-06-04 20:28:34",
+        "InterviewState": "Completed",
+        "Flight": "A3623",
+        "Dest": "ATH",
+        "AirlineCode": "",
+        "InterviewerID": 8
+    },
+    {
         "InterviewId": "848d7e84-7902-48d0-9cb9-f592fd27a61d",
         "InterviewEndDate": "2023-06-04 21:16:24",
         "InterviewState": "Completed",
@@ -124878,6 +124887,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "4138d659-30d3-46b1-89b8-f92fe6996390",
         "InterviewEndDate": "2023-06-18 16:14:26",
+        "InterviewState": "Completed",
+        "Flight": "VY8921",
+        "Dest": "VLC",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "ec7646f7-3184-4ffa-b0d1-f57b4f6a7486",
+        "InterviewEndDate": "2023-06-18 16:36:10",
         "InterviewState": "Completed",
         "Flight": "VY8921",
         "Dest": "VLC",

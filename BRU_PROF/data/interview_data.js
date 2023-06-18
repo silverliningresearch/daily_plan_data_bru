@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "18-06-2023 12:38:15"
+        "download_time": "18-06-2023 12:48:14"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -64135,15 +64135,6 @@ let interview_data_raw = `[
         "InterviewerID": 3
     },
     {
-        "InterviewId": "82167333-6d88-4377-8eee-9497c0cdb84e",
-        "InterviewEndDate": "2023-04-14 15:08:23",
-        "InterviewState": "Completed",
-        "Flight": "SN3181",
-        "Dest": "FCO",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "54dbd34e-8fb9-419b-816f-9164c11ba0bd",
         "InterviewEndDate": "2023-04-14 17:13:24",
         "InterviewState": "Completed",
@@ -71956,6 +71947,15 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "c6468510-10d4-4928-9d83-8debce7f50eb",
+        "InterviewEndDate": "2023-06-18 13:38:01",
+        "InterviewState": "Completed",
+        "Flight": "TB3051",
+        "Dest": "HRG",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
         "InterviewId": "f627f167-8e2b-4e25-a2db-a0c15ace6733",
         "InterviewEndDate": "2023-04-01 10:18:50",
         "InterviewState": "Completed",
@@ -73241,6 +73241,15 @@ let interview_data_raw = `[
         "Dest": "TFS",
         "AirlineCode": "",
         "InterviewerID": 3
+    },
+    {
+        "InterviewId": "82167333-6d88-4377-8eee-9497c0cdb84e",
+        "InterviewEndDate": "2023-04-14 15:08:23",
+        "InterviewState": "Completed",
+        "Flight": "SN3181",
+        "Dest": "FCO",
+        "AirlineCode": "",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "382ab82c-d1d6-449a-991a-98f7e2c2a320",
@@ -77838,15 +77847,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "ET725",
         "Dest": "ADD",
-        "AirlineCode": "",
-        "InterviewerID": 2
-    },
-    {
-        "InterviewId": "985b3ac7-cab2-405c-9750-a7f8efb09809",
-        "InterviewEndDate": "2023-05-17 21:16:34",
-        "InterviewState": "Completed",
-        "Flight": "SN3293",
-        "Dest": "TLV",
         "AirlineCode": "",
         "InterviewerID": 2
     },
@@ -84889,15 +84889,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "4a7e77c5-2288-4db0-8db8-baa4fecf9c95",
-        "InterviewEndDate": "2023-05-02 14:42:17",
-        "InterviewState": "Completed",
-        "Flight": "TB3251",
-        "Dest": "BJV",
-        "AirlineCode": "",
-        "InterviewerID": 11
-    },
-    {
         "InterviewId": "164c9080-d98f-42de-9d29-aef4ce6ab886",
         "InterviewEndDate": "2023-05-02 14:47:36",
         "InterviewState": "Completed",
@@ -86415,6 +86406,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "SN2049",
         "Dest": "BHX",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "985b3ac7-cab2-405c-9750-a7f8efb09809",
+        "InterviewEndDate": "2023-05-17 21:16:34",
+        "InterviewState": "Completed",
+        "Flight": "SN3293",
+        "Dest": "TLV",
         "AirlineCode": "",
         "InterviewerID": 2
     },
@@ -94024,6 +94024,15 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
+        "InterviewId": "4a7e77c5-2288-4db0-8db8-baa4fecf9c95",
+        "InterviewEndDate": "2023-05-02 14:42:17",
+        "InterviewState": "Completed",
+        "Flight": "TB3251",
+        "Dest": "BJV",
+        "AirlineCode": "",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "6e43f8cf-f07a-46e3-9bb2-c766bd6976b0",
         "InterviewEndDate": "2023-05-02 16:42:06",
         "InterviewState": "Completed",
@@ -97658,15 +97667,6 @@ let interview_data_raw = `[
         "Dest": "ATH",
         "AirlineCode": "",
         "InterviewerID": 1
-    },
-    {
-        "InterviewId": "27081e1e-64f2-4bca-8109-cc54649139d8",
-        "InterviewEndDate": "2023-06-06 08:59:54",
-        "InterviewState": "Completed",
-        "Flight": "LH1005",
-        "Dest": "FRA",
-        "AirlineCode": "",
-        "InterviewerID": 5
     },
     {
         "InterviewId": "e99de34e-cf34-49b4-a5c9-c58e16e73608",
@@ -104680,15 +104680,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "d8413a24-8a83-4611-8cc4-ddbde586e2e2",
-        "InterviewEndDate": "2023-05-19 17:16:50",
-        "InterviewState": "Completed",
-        "Flight": "TB2963",
-        "Dest": "PRN",
-        "AirlineCode": "",
-        "InterviewerID": 10
-    },
-    {
         "InterviewId": "548222d4-d55b-4459-bba7-cf0bfa13c8d6",
         "InterviewEndDate": "2023-05-19 17:02:34",
         "InterviewState": "Completed",
@@ -106487,6 +106478,15 @@ let interview_data_raw = `[
         "Dest": "FAO",
         "AirlineCode": "",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "27081e1e-64f2-4bca-8109-cc54649139d8",
+        "InterviewEndDate": "2023-06-06 08:59:54",
+        "InterviewState": "Completed",
+        "Flight": "LH1005",
+        "Dest": "FRA",
+        "AirlineCode": "",
+        "InterviewerID": 5
     },
     {
         "InterviewId": "fef50537-f69d-4430-9399-d7f98afc5062",

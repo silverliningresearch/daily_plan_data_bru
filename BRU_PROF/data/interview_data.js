@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "20-06-2023 18:37:38"
+        "download_time": "20-06-2023 18:47:39"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -117010,15 +117010,6 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
-        "InterviewId": "939649b2-a900-4f4e-bbba-fc69c44980d8",
-        "InterviewEndDate": "2023-04-01 13:36:37",
-        "InterviewState": "Completed",
-        "Flight": "HU492",
-        "Dest": "PEK",
-        "AirlineCode": "",
-        "InterviewerID": 4
-    },
-    {
         "InterviewId": "a738dd6c-a769-43c5-a9a5-f34866a83105",
         "InterviewEndDate": "2023-04-01 14:25:49",
         "InterviewState": "Completed",
@@ -125927,6 +125918,24 @@ let interview_data_raw = `[
         "Dest": "FRA",
         "AirlineCode": "",
         "InterviewerID": 5
+    },
+    {
+        "InterviewId": "5d6efb37-c786-49f5-a2eb-ec3f0a3c2fdc",
+        "InterviewEndDate": "2023-06-20 19:39:03",
+        "InterviewState": "Completed",
+        "Flight": "ET731",
+        "Dest": "ADD",
+        "AirlineCode": "",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "939649b2-a900-4f4e-bbba-fc69c44980d8",
+        "InterviewEndDate": "2023-04-01 13:36:37",
+        "InterviewState": "Completed",
+        "Flight": "HU492",
+        "Dest": "PEK",
+        "AirlineCode": "",
+        "InterviewerID": 4
     },
     {
         "InterviewId": "b135f427-9cf6-474e-8671-ff7ba6e7e535",

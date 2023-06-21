@@ -2,7 +2,7 @@
 [
  {
   "Date": "21-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -15,11 +15,11 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "28",
-  "GateStartTime": "0125"
+  "GateStartTime": "0255"
  },
  {
   "Date": "21-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "BKK",
   "DestName": "Bangkok",
   "Next": "",
@@ -32,11 +32,11 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "1",
-  "GateStartTime": "0125"
+  "GateStartTime": "0255"
  },
  {
   "Date": "21-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -53,7 +53,7 @@
  },
  {
   "Date": "21-06-2023",
-  "Time": "0400",
+  "Time": "0530",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -83,7 +83,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "0505"
+  "GateStartTime": "0405"
  },
  {
   "Date": "21-06-2023",
@@ -202,7 +202,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "21-06-2023",
@@ -253,7 +253,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "67",
-  "GateStartTime": "0520"
+  "GateStartTime": "0420"
  },
  {
   "Date": "21-06-2023",
@@ -304,7 +304,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "0520"
+  "GateStartTime": "0420"
  },
  {
   "Date": "21-06-2023",
@@ -338,7 +338,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "0525"
+  "GateStartTime": "0425"
  },
  {
   "Date": "21-06-2023",
@@ -389,7 +389,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "0535"
+  "GateStartTime": "0435"
  },
  {
   "Date": "21-06-2023",
@@ -440,7 +440,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "0545"
+  "GateStartTime": "0445"
  },
  {
   "Date": "21-06-2023",
@@ -508,7 +508,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "0610"
+  "GateStartTime": "0510"
  },
  {
   "Date": "21-06-2023",
@@ -576,7 +576,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "0645"
+  "GateStartTime": "0545"
  },
  {
   "Date": "21-06-2023",
@@ -2015,13 +2015,13 @@
   "NextName": "Brasov-Ghimbav",
   "Schengen": "N",
   "FlightType": "J",
-  "Flight": "DN244",
+  "Flight": "DN253",
   "AirlineCode": "DN",
   "Airline": "Dan Air",
   "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "11",
-  "GateStartTime": "1145"
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
  },
  {
   "Date": "21-06-2023",
@@ -3545,9 +3545,43 @@
   "NextName": "",
   "Schengen": "N",
   "FlightType": "J",
+  "Flight": "T0B001",
+  "AirlineCode": "T0B",
+  "Airline": "Test Company Aviapar",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "21-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
   "Flight": "T0R001",
   "AirlineCode": "T0R",
   "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "21-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0S001",
+  "AirlineCode": "T0S",
+  "Airline": "Test Company Alyzia",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -6458,7 +6492,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "1340"
+  "GateStartTime": "1325"
  },
  {
   "Date": "22-06-2023",
@@ -7768,6 +7802,23 @@
   "GateZone": "A",
   "GateNumber": "47",
   "GateStartTime": "1915"
+ },
+ {
+  "Date": "22-06-2023",
+  "Time": "2000",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0R001",
+  "AirlineCode": "T0R",
+  "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
  },
  {
   "Date": "22-06-2023",

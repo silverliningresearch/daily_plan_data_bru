@@ -269,7 +269,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "63",
+  "GateNumber": "57",
   "GateStartTime": "1445"
  },
  {
@@ -1481,6 +1481,23 @@
  },
  {
   "Date": "12-08-2026",
+  "Time": "1035",
+  "Dest": "JFK",
+  "DestName": "New York",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "SN501A",
+  "AirlineCode": "SN",
+  "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "12-08-2026",
   "Time": "1045",
   "Dest": "HER",
   "DestName": "Heraklion",
@@ -2208,7 +2225,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "37",
-  "GateStartTime": "1130"
+  "GateStartTime": "1207"
  },
  {
   "Date": "12-08-2026",
@@ -2225,7 +2242,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "1136"
+  "GateStartTime": "1214"
  },
  {
   "Date": "12-08-2026",
@@ -2242,7 +2259,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1150"
+  "GateStartTime": "1219"
  },
  {
   "Date": "12-08-2026",
@@ -2259,7 +2276,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "1200"
+  "GateStartTime": "1217"
  },
  {
   "Date": "12-08-2026",
@@ -2276,7 +2293,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "36",
-  "GateStartTime": "1250"
+  "GateStartTime": "1302"
  },
  {
   "Date": "12-08-2026",
@@ -2293,7 +2310,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "1300"
+  "GateStartTime": "1305"
  },
  {
   "Date": "12-08-2026",
@@ -2310,7 +2327,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "1305"
+  "GateStartTime": "1324"
  },
  {
   "Date": "12-08-2026",
@@ -2327,7 +2344,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "1305"
+  "GateStartTime": "1302"
  },
  {
   "Date": "12-08-2026",
@@ -2361,7 +2378,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "57",
-  "GateStartTime": "1210"
+  "GateStartTime": "1317"
  },
  {
   "Date": "12-08-2026",
@@ -2378,7 +2395,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "1315"
+  "GateStartTime": "1342"
  },
  {
   "Date": "12-08-2026",
@@ -2395,7 +2412,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "1315"
+  "GateStartTime": "1311"
  },
  {
   "Date": "12-08-2026",
@@ -2412,7 +2429,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "1331"
+  "GateStartTime": "1320"
  },
  {
   "Date": "12-08-2026",
@@ -2429,7 +2446,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "1220"
+  "GateStartTime": "1336"
  },
  {
   "Date": "12-08-2026",
@@ -2446,7 +2463,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1330"
+  "GateStartTime": "1335"
  },
  {
   "Date": "12-08-2026",
@@ -2463,7 +2480,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "1335"
+  "GateStartTime": "1334"
  },
  {
   "Date": "12-08-2026",
@@ -2480,7 +2497,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "30",
-  "GateStartTime": "1340"
+  "GateStartTime": "1330"
  },
  {
   "Date": "12-08-2026",
@@ -2497,7 +2514,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "1340"
+  "GateStartTime": "1355"
  },
  {
   "Date": "12-08-2026",
@@ -2514,7 +2531,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "1340"
+  "GateStartTime": "1323"
  },
  {
   "Date": "12-08-2026",
@@ -2531,7 +2548,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "1245"
+  "GateStartTime": "1346"
  },
  {
   "Date": "12-08-2026",
@@ -2548,7 +2565,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "1345"
+  "GateStartTime": "1339"
  },
  {
   "Date": "12-08-2026",
@@ -2565,7 +2582,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "1345"
+  "GateStartTime": "1341"
  },
  {
   "Date": "12-08-2026",
@@ -2582,7 +2599,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "1355"
+  "GateStartTime": "1403"
  },
  {
   "Date": "12-08-2026",
@@ -2599,7 +2616,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "32",
-  "GateStartTime": "1405"
+  "GateStartTime": "1357"
  },
  {
   "Date": "12-08-2026",
@@ -2616,7 +2633,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "15",
-  "GateStartTime": "1415"
+  "GateStartTime": "1410"
  },
  {
   "Date": "12-08-2026",
@@ -2633,7 +2650,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "1415"
+  "GateStartTime": "1425"
  },
  {
   "Date": "12-08-2026",
@@ -2650,7 +2667,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "1415"
+  "GateStartTime": "1409"
  },
  {
   "Date": "12-08-2026",
@@ -2667,7 +2684,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "1415"
+  "GateStartTime": "1358"
  },
  {
   "Date": "12-08-2026",
@@ -2700,7 +2717,7 @@
   "Airline": "KLM",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "49",
+  "GateNumber": "45",
   "GateStartTime": "1425"
  },
  {
@@ -2718,7 +2735,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "66",
-  "GateStartTime": "1425"
+  "GateStartTime": "1341"
  },
  {
   "Date": "12-08-2026",
@@ -2735,7 +2752,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "1430"
+  "GateStartTime": "1345"
  },
  {
   "Date": "12-08-2026",
@@ -2751,7 +2768,7 @@
   "Airline": "SAS",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "57",
+  "GateNumber": "63",
   "GateStartTime": "1430"
  },
  {
@@ -2768,7 +2785,7 @@
   "Airline": "Vueling",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "45",
+  "GateNumber": "49",
   "GateStartTime": "1430"
  },
  {
@@ -2786,7 +2803,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "31",
-  "GateStartTime": "1350"
+  "GateStartTime": "1355"
  },
  {
   "Date": "12-08-2026",
@@ -2803,7 +2820,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "1435"
+  "GateStartTime": "1407"
  },
  {
   "Date": "12-08-2026",
@@ -2820,7 +2837,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "1435"
+  "GateStartTime": "1401"
  },
  {
   "Date": "12-08-2026",
@@ -2922,7 +2939,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "1455"
+  "GateStartTime": "1355"
  },
  {
   "Date": "12-08-2026",
@@ -2939,7 +2956,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "9",
-  "GateStartTime": "1400"
+  "GateStartTime": "1355"
  },
  {
   "Date": "12-08-2026",
@@ -2973,7 +2990,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "34",
-  "GateStartTime": "1510"
+  "GateStartTime": "1410"
  },
  {
   "Date": "12-08-2026",
@@ -3059,74 +3076,6 @@
   "GateZone": "A",
   "GateNumber": "42",
   "GateStartTime": "1430"
- },
- {
-  "Date": "12-08-2026",
-  "Time": "1600",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F020",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "28",
-  "GateStartTime": "1325"
- },
- {
-  "Date": "12-08-2026",
-  "Time": "1600",
-  "Dest": "BKK",
-  "DestName": "Bangkok",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "T0F022",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "1",
-  "GateStartTime": "1325"
- },
- {
-  "Date": "12-08-2026",
-  "Time": "1600",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F081",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
- },
- {
-  "Date": "12-08-2026",
-  "Time": "1600",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F082",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
  },
  {
   "Date": "12-08-2026",
@@ -3227,7 +3176,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "70",
+  "GateNumber": "64",
   "GateStartTime": "1540"
  },
  {
@@ -3245,7 +3194,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "1540"
+  "GateStartTime": "1550"
  },
  {
   "Date": "12-08-2026",
@@ -3279,7 +3228,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "1555"
+  "GateStartTime": "1610"
  },
  {
   "Date": "12-08-2026",
@@ -3433,6 +3382,74 @@
   "GateZone": "B",
   "GateNumber": "11",
   "GateStartTime": "1715"
+ },
+ {
+  "Date": "12-08-2026",
+  "Time": "1800",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F020",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "28",
+  "GateStartTime": "1525"
+ },
+ {
+  "Date": "12-08-2026",
+  "Time": "1800",
+  "Dest": "BKK",
+  "DestName": "Bangkok",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0F022",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "B",
+  "GateNumber": "1",
+  "GateStartTime": "1525"
+ },
+ {
+  "Date": "12-08-2026",
+  "Time": "1800",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F081",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
+ },
+ {
+  "Date": "12-08-2026",
+  "Time": "1800",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F082",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
  },
  {
   "Date": "12-08-2026",
@@ -3687,7 +3704,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "1835"
+  "GateStartTime": "1735"
  },
  {
   "Date": "12-08-2026",
@@ -4689,7 +4706,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "65",
+  "GateNumber": "61",
   "GateStartTime": "0515"
  },
  {
@@ -4774,7 +4791,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "57",
+  "GateNumber": "65",
   "GateStartTime": "0520"
  },
  {
@@ -5199,7 +5216,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "36",
+  "GateNumber": "57",
   "GateStartTime": "0630"
  },
  {
@@ -31351,6 +31368,23 @@
  {
   "Date": "18-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "18-08-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -35669,6 +35703,23 @@
  {
   "Date": "19-08-2026",
   "Time": "2030",
+  "Dest": "FIH",
+  "DestName": "Kinshasa",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "C",
+  "Flight": "4H099",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "19-08-2026",
+  "Time": "2030",
   "Dest": "NDR",
   "DestName": "Nador",
   "Next": "",
@@ -35746,23 +35797,6 @@
   "Flight": "VY1335",
   "AirlineCode": "VY",
   "Airline": "Vueling",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "19-08-2026",
-  "Time": "2045",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -44849,6 +44883,23 @@
  {
   "Date": "21-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "21-08-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -44960,23 +45011,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "21-08-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -49252,6 +49286,23 @@
  {
   "Date": "22-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "22-08-2026",
+  "Time": "2030",
   "Dest": "TNG",
   "DestName": "Tangier",
   "Next": "",
@@ -49295,23 +49346,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "22-08-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -53451,6 +53485,23 @@
  {
   "Date": "23-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "23-08-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -53562,23 +53613,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "23-08-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -62818,6 +62852,23 @@
  {
   "Date": "25-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "25-08-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -67068,6 +67119,23 @@
  {
   "Date": "26-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "26-08-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -67145,23 +67213,6 @@
   "Flight": "VY1335",
   "AirlineCode": "VY",
   "Airline": "Vueling",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "26-08-2026",
-  "Time": "2045",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -76180,6 +76231,23 @@
  {
   "Date": "28-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "28-08-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -76291,23 +76359,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "28-08-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -80531,6 +80582,23 @@
  },
  {
   "Date": "29-08-2026",
+  "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "29-08-2026",
   "Time": "2040",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -80541,23 +80609,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "29-08-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -84663,6 +84714,23 @@
  {
   "Date": "30-08-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "30-08-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -84774,23 +84842,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "30-08-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -94132,6 +94183,23 @@
  {
   "Date": "01-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "01-09-2026",
+  "Time": "2030",
   "Dest": "TNG",
   "DestName": "Tangier",
   "Next": "",
@@ -98654,6 +98722,23 @@
  {
   "Date": "02-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "02-09-2026",
+  "Time": "2030",
   "Dest": "NDR",
   "DestName": "Nador",
   "Next": "",
@@ -98748,23 +98833,6 @@
   "Flight": "VY1335",
   "AirlineCode": "VY",
   "Airline": "Vueling",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "02-09-2026",
-  "Time": "2045",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -101900,7 +101968,7 @@
  },
  {
   "Date": "03-09-2026",
-  "Time": "1500",
+  "Time": "1505",
   "Dest": "AHU",
   "DestName": "Al Hoceima",
   "Next": "",
@@ -107953,6 +108021,23 @@
  {
   "Date": "04-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "04-09-2026",
+  "Time": "2030",
   "Dest": "NDR",
   "DestName": "Nador",
   "Next": "",
@@ -108081,23 +108166,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "04-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -112390,6 +112458,23 @@
  {
   "Date": "05-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "05-09-2026",
+  "Time": "2030",
   "Dest": "TNG",
   "DestName": "Tangier",
   "Next": "",
@@ -112433,23 +112518,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "05-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -116589,6 +116657,23 @@
  {
   "Date": "06-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "06-09-2026",
+  "Time": "2030",
   "Dest": "NDR",
   "DestName": "Nador",
   "Next": "",
@@ -116717,23 +116802,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "06-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -126160,6 +126228,23 @@
  {
   "Date": "08-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "08-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -130682,6 +130767,23 @@
  {
   "Date": "09-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "09-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -130742,23 +130844,6 @@
   "Flight": "VY1335",
   "AirlineCode": "VY",
   "Airline": "Vueling",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "09-09-2026",
-  "Time": "2045",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -133894,7 +133979,7 @@
  },
  {
   "Date": "10-09-2026",
-  "Time": "1500",
+  "Time": "1505",
   "Dest": "AHU",
   "DestName": "Al Hoceima",
   "Next": "",
@@ -140015,6 +140100,23 @@
  {
   "Date": "11-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "11-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -140126,23 +140228,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "11-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -144452,6 +144537,23 @@
  {
   "Date": "12-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "12-09-2026",
+  "Time": "2030",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -144478,23 +144580,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "12-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -148600,6 +148685,23 @@
  {
   "Date": "13-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "13-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -148711,23 +148813,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "13-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -158154,6 +158239,23 @@
  {
   "Date": "15-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "15-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -162591,6 +162693,23 @@
  {
   "Date": "16-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "16-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -162634,23 +162753,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "16-09-2026",
-  "Time": "2045",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -163321,23 +163423,6 @@
  },
  {
   "Date": "17-09-2026",
-  "Time": "0600",
-  "Dest": "AYT",
-  "DestName": "Antalya",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "TB3201",
-  "AirlineCode": "TB",
-  "Airline": "TUI fly",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "17-09-2026",
   "Time": "0605",
   "Dest": "IBZ",
   "DestName": "Ibiza",
@@ -163414,6 +163499,23 @@
   "Schengen": "S",
   "FlightType": "J",
   "Flight": "TB1111",
+  "AirlineCode": "TB",
+  "Airline": "TUI fly",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "17-09-2026",
+  "Time": "0610",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "TB3201",
   "AirlineCode": "TB",
   "Airline": "TUI fly",
   "A_D": "D",
@@ -165871,7 +165973,7 @@
  },
  {
   "Date": "17-09-2026",
-  "Time": "1500",
+  "Time": "1505",
   "Dest": "AHU",
   "DestName": "Al Hoceima",
   "Next": "",
@@ -171992,6 +172094,23 @@
  {
   "Date": "18-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "18-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -172111,23 +172230,6 @@
  {
   "Date": "18-09-2026",
   "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "18-09-2026",
-  "Time": "2050",
   "Dest": "FCO",
   "DestName": "Rome Fiumicino",
   "Next": "",
@@ -172154,6 +172256,23 @@
   "Flight": "SN2591",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "18-09-2026",
+  "Time": "2050",
+  "Dest": "NDR",
+  "DestName": "Nador",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "TB2611",
+  "AirlineCode": "TB",
+  "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -172256,23 +172375,6 @@
   "Flight": "SN2815",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "18-09-2026",
-  "Time": "2100",
-  "Dest": "NDR",
-  "DestName": "Nador",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "TB2611",
-  "AirlineCode": "TB",
-  "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -176395,6 +176497,23 @@
  {
   "Date": "19-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "19-09-2026",
+  "Time": "2030",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -176438,23 +176557,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "19-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -180560,6 +180662,23 @@
  {
   "Date": "20-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "20-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -180654,23 +180773,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "20-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -189995,6 +190097,23 @@
  {
   "Date": "22-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "22-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -194432,6 +194551,23 @@
  {
   "Date": "23-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "23-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -194492,23 +194628,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "23-09-2026",
-  "Time": "2045",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -195162,23 +195281,6 @@
  },
  {
   "Date": "24-09-2026",
-  "Time": "0600",
-  "Dest": "AYT",
-  "DestName": "Antalya",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "TB3201",
-  "AirlineCode": "TB",
-  "Airline": "TUI fly",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "24-09-2026",
   "Time": "0605",
   "Dest": "IBZ",
   "DestName": "Ibiza",
@@ -195255,6 +195357,23 @@
   "Schengen": "S",
   "FlightType": "J",
   "Flight": "TB1111",
+  "AirlineCode": "TB",
+  "Airline": "TUI fly",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "24-09-2026",
+  "Time": "0610",
+  "Dest": "AYT",
+  "DestName": "Antalya",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "TB3201",
   "AirlineCode": "TB",
   "Airline": "TUI fly",
   "A_D": "D",
@@ -197712,7 +197831,7 @@
  },
  {
   "Date": "24-09-2026",
-  "Time": "1500",
+  "Time": "1505",
   "Dest": "AHU",
   "DestName": "Al Hoceima",
   "Next": "",
@@ -203748,6 +203867,23 @@
  {
   "Date": "25-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "25-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -203867,23 +204003,6 @@
  {
   "Date": "25-09-2026",
   "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "25-09-2026",
-  "Time": "2050",
   "Dest": "FCO",
   "DestName": "Rome Fiumicino",
   "Next": "",
@@ -203910,6 +204029,23 @@
   "Flight": "SN2591",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "25-09-2026",
+  "Time": "2050",
+  "Dest": "NDR",
+  "DestName": "Nador",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "TB2611",
+  "AirlineCode": "TB",
+  "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -204012,23 +204148,6 @@
   "Flight": "SN2815",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "25-09-2026",
-  "Time": "2100",
-  "Dest": "NDR",
-  "DestName": "Nador",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "TB2611",
-  "AirlineCode": "TB",
-  "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -208168,6 +208287,23 @@
  {
   "Date": "26-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "26-09-2026",
+  "Time": "2030",
   "Dest": "CPH",
   "DestName": "Copenhagen",
   "Next": "",
@@ -208211,23 +208347,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "26-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -212350,6 +212469,23 @@
  {
   "Date": "27-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "27-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -212444,23 +212580,6 @@
   "Flight": "SN2725",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "27-09-2026",
-  "Time": "2050",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -221785,6 +221904,23 @@
  {
   "Date": "29-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "29-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -226120,6 +226256,23 @@
  {
   "Date": "30-09-2026",
   "Time": "2030",
+  "Dest": "CDG",
+  "DestName": "Paris CDG",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "4H098",
+  "AirlineCode": "4H",
+  "Airline": "Air Congo",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "30-09-2026",
+  "Time": "2030",
   "Dest": "ZAG",
   "DestName": "Zagreb",
   "Next": "",
@@ -226197,23 +226350,6 @@
   "Flight": "3O114",
   "AirlineCode": "3O",
   "Airline": "Air Arabia Maroc",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "30-09-2026",
-  "Time": "2045",
-  "Dest": "FIH",
-  "DestName": "Kinshasa",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "C",
-  "Flight": "4H099",
-  "AirlineCode": "4H",
-  "Airline": "Air Congo",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",

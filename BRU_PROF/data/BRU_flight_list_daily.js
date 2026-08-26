@@ -3891,7 +3891,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "2030"
+  "GateStartTime": "2033"
  },
  {
   "Date": "26-08-2026",
@@ -3902,13 +3902,13 @@
   "NextName": "",
   "Schengen": "S",
   "FlightType": "J",
-  "Flight": "OU4457",
+  "Flight": "OU4457A",
   "AirlineCode": "OU",
   "Airline": "Croatia Airlines",
   "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "63",
-  "GateStartTime": "1958"
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
  },
  {
   "Date": "26-08-2026",
@@ -3942,7 +3942,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "65",
-  "GateStartTime": "2000"
+  "GateStartTime": "2015"
  },
  {
   "Date": "26-08-2026",
@@ -3959,7 +3959,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "67",
-  "GateStartTime": "1955"
+  "GateStartTime": "2029"
  },
  {
   "Date": "26-08-2026",
@@ -3976,7 +3976,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2010"
+  "GateStartTime": "2014"
  },
  {
   "Date": "26-08-2026",
@@ -3993,7 +3993,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "2015"
+  "GateStartTime": "2018"
  },
  {
   "Date": "26-08-2026",
@@ -4010,7 +4010,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "31",
-  "GateStartTime": "2035"
+  "GateStartTime": "2040"
  },
  {
   "Date": "26-08-2026",
@@ -4044,7 +4044,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "2030"
+  "GateStartTime": "2107"
  },
  {
   "Date": "26-08-2026",
@@ -4061,7 +4061,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "2025"
+  "GateStartTime": "2036"
  },
  {
   "Date": "26-08-2026",
@@ -4078,7 +4078,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "1957"
+  "GateStartTime": "2023"
  },
  {
   "Date": "26-08-2026",
@@ -4095,7 +4095,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "61",
-  "GateStartTime": "2030"
+  "GateStartTime": "2032"
  },
  {
   "Date": "26-08-2026",
@@ -4129,7 +4129,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "1933"
+  "GateStartTime": "2030"
  },
  {
   "Date": "26-08-2026",
@@ -4146,7 +4146,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "38",
-  "GateStartTime": "2045"
+  "GateStartTime": "2051"
  },
  {
   "Date": "26-08-2026",
@@ -4163,7 +4163,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "2025"
+  "GateStartTime": "2034"
  },
  {
   "Date": "26-08-2026",
@@ -4180,7 +4180,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "2025"
+  "GateStartTime": "2048"
  },
  {
   "Date": "26-08-2026",
@@ -4197,7 +4197,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "30",
-  "GateStartTime": "2025"
+  "GateStartTime": "2016"
  },
  {
   "Date": "26-08-2026",
@@ -4231,7 +4231,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "14",
-  "GateStartTime": "2030"
+  "GateStartTime": "2100"
  },
  {
   "Date": "26-08-2026",
@@ -4248,7 +4248,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "2110"
+  "GateStartTime": "2116"
  },
  {
   "Date": "26-08-2026",
@@ -4265,7 +4265,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "1954"
+  "GateStartTime": "2037"
  },
  {
   "Date": "26-08-2026",
@@ -4282,7 +4282,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "2035"
+  "GateStartTime": "2026"
  },
  {
   "Date": "26-08-2026",
@@ -4299,7 +4299,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "15",
-  "GateStartTime": "2040"
+  "GateStartTime": "2055"
  },
  {
   "Date": "26-08-2026",
@@ -4316,7 +4316,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1941"
+  "GateStartTime": "2015"
  },
  {
   "Date": "26-08-2026",
@@ -4333,7 +4333,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "27",
-  "GateStartTime": "2045"
+  "GateStartTime": "2044"
  },
  {
   "Date": "26-08-2026",
@@ -4350,7 +4350,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "38",
-  "GateStartTime": "2045"
+  "GateStartTime": "2038"
  },
  {
   "Date": "26-08-2026",
@@ -4367,7 +4367,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "32",
-  "GateStartTime": "2045"
+  "GateStartTime": "2041"
  },
  {
   "Date": "26-08-2026",
@@ -4384,7 +4384,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "2010"
+  "GateStartTime": "2050"
  },
  {
   "Date": "26-08-2026",
@@ -4401,7 +4401,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "31",
-  "GateStartTime": "2030"
+  "GateStartTime": "2119"
  },
  {
   "Date": "26-08-2026",
@@ -4418,7 +4418,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "2110"
+  "GateStartTime": "2115"
  },
  {
   "Date": "26-08-2026",
@@ -4502,7 +4502,7 @@
   "Airline": "Free Bird Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "33",
+  "GateNumber": "37",
   "GateStartTime": "0500"
  },
  {
@@ -4605,7 +4605,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "61",
-  "GateStartTime": "0515"
+  "GateStartTime": "0430"
  },
  {
   "Date": "27-08-2026",
@@ -4621,7 +4621,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "58",
+  "GateNumber": "63",
   "GateStartTime": "0515"
  },
  {
@@ -4689,7 +4689,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "63",
+  "GateNumber": "69",
   "GateStartTime": "0520"
  },
  {
@@ -4724,7 +4724,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "0525"
+  "GateStartTime": "0425"
  },
  {
   "Date": "27-08-2026",
@@ -4740,7 +4740,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "69",
+  "GateNumber": "58",
   "GateStartTime": "0425"
  },
  {
@@ -4860,7 +4860,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "0535"
+  "GateStartTime": "0435"
  },
  {
   "Date": "27-08-2026",
@@ -4911,7 +4911,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "0540"
+  "GateStartTime": "0440"
  },
  {
   "Date": "27-08-2026",
@@ -4944,7 +4944,7 @@
   "Airline": "Transavia Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "34",
+  "GateNumber": "31",
   "GateStartTime": "0545"
  },
  {
@@ -4962,7 +4962,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "0555"
+  "GateStartTime": "0455"
  },
  {
   "Date": "27-08-2026",
@@ -4979,7 +4979,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "0600"
+  "GateStartTime": "0500"
  },
  {
   "Date": "27-08-2026",
@@ -5012,7 +5012,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "31",
+  "GateNumber": "34",
   "GateStartTime": "0605"
  },
  {
@@ -5030,7 +5030,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "0605"
+  "GateStartTime": "0505"
  },
  {
   "Date": "27-08-2026",
@@ -5064,7 +5064,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "0615"
+  "GateStartTime": "0515"
  },
  {
   "Date": "27-08-2026",
@@ -5098,7 +5098,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "0625"
+  "GateStartTime": "0525"
  },
  {
   "Date": "27-08-2026",
@@ -5115,7 +5115,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "0630"
+  "GateStartTime": "0530"
  },
  {
   "Date": "27-08-2026",
@@ -5132,7 +5132,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "0630"
+  "GateStartTime": "0530"
  },
  {
   "Date": "27-08-2026",
@@ -5166,7 +5166,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "0635"
+  "GateStartTime": "0535"
  },
  {
   "Date": "27-08-2026",
@@ -5183,7 +5183,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "0645"
+  "GateStartTime": "0545"
  },
  {
   "Date": "27-08-2026",
@@ -5404,7 +5404,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "31",
-  "GateStartTime": "0850"
+  "GateStartTime": "0853"
  },
  {
   "Date": "27-08-2026",
@@ -5455,7 +5455,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "0850"
+  "GateStartTime": "0800"
  },
  {
   "Date": "27-08-2026",
@@ -5845,7 +5845,7 @@
   "Airline": "Aer Lingus",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "27",
+  "GateNumber": "15",
   "GateStartTime": "0950"
  },
  {
@@ -6015,7 +6015,7 @@
   "Airline": "British Airways",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "15",
+  "GateNumber": "30",
   "GateStartTime": "1020"
  },
  {
@@ -6594,7 +6594,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "1155"
+  "GateStartTime": "1100"
  },
  {
   "Date": "27-08-2026",
@@ -14142,7 +14142,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "0540"
+  "GateStartTime": "0440"
  },
  {
   "Date": "29-08-2026",

@@ -3687,7 +3687,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "1945"
+  "GateStartTime": "2003"
  },
  {
   "Date": "29-08-2026",
@@ -3908,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2027"
+  "GateStartTime": "2019"
  },
  {
   "Date": "29-08-2026",
@@ -3942,7 +3942,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "2010"
+  "GateStartTime": "2007"
  },
  {
   "Date": "29-08-2026",
@@ -3959,7 +3959,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "2002"
+  "GateStartTime": "2003"
  },
  {
   "Date": "29-08-2026",
@@ -3976,7 +3976,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "2000"
+  "GateStartTime": "2024"
  },
  {
   "Date": "29-08-2026",
@@ -4009,8 +4009,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "36",
-  "GateStartTime": "1935"
+  "GateNumber": "38",
+  "GateStartTime": "2142"
  },
  {
   "Date": "29-08-2026",
@@ -4027,7 +4027,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "2035"
+  "GateStartTime": "2017"
  },
  {
   "Date": "29-08-2026",
@@ -4044,7 +4044,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1949"
+  "GateStartTime": "2042"
  },
  {
   "Date": "29-08-2026",
@@ -4061,7 +4061,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "2235"
+  "GateStartTime": "2250"
  },
  {
   "Date": "29-08-2026",
@@ -4078,7 +4078,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "19",
-  "GateStartTime": "2045"
+  "GateStartTime": "2046"
  },
  {
   "Date": "29-08-2026",
@@ -4095,7 +4095,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "2050"
+  "GateStartTime": "2055"
  },
  {
   "Date": "29-08-2026",
@@ -4112,7 +4112,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "31",
-  "GateStartTime": "1938"
+  "GateStartTime": "2011"
  },
  {
   "Date": "29-08-2026",
@@ -4129,7 +4129,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "2140"
+  "GateStartTime": "2155"
  },
  {
   "Date": "29-08-2026",
@@ -4281,7 +4281,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "17",
+  "GateNumber": "9",
   "GateStartTime": "0510"
  },
  {
@@ -4367,7 +4367,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "63",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "30-08-2026",
@@ -4588,7 +4588,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "69",
-  "GateStartTime": "0530"
+  "GateStartTime": "0430"
  },
  {
   "Date": "30-08-2026",
@@ -4639,7 +4639,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "0535"
+  "GateStartTime": "0435"
  },
  {
   "Date": "30-08-2026",
@@ -4690,7 +4690,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "0540"
+  "GateStartTime": "0440"
  },
  {
   "Date": "30-08-2026",
@@ -4741,7 +4741,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "0600"
+  "GateStartTime": "0500"
  },
  {
   "Date": "30-08-2026",
@@ -4758,7 +4758,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "0605"
+  "GateStartTime": "0505"
  },
  {
   "Date": "30-08-2026",
@@ -4791,7 +4791,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "54",
+  "GateNumber": "50",
   "GateStartTime": "0615"
  },
  {
@@ -4910,7 +4910,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "50",
+  "GateNumber": "54",
   "GateStartTime": "0710"
  },
  {
@@ -5030,7 +5030,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "31",
-  "GateStartTime": "0820"
+  "GateStartTime": "0720"
  },
  {
   "Date": "30-08-2026",
@@ -5081,7 +5081,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "0850"
+  "GateStartTime": "0855"
  },
  {
   "Date": "30-08-2026",

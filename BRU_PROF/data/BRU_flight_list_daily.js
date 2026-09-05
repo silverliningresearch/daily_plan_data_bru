@@ -3874,7 +3874,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "1855"
+  "GateStartTime": "2003"
  },
  {
   "Date": "05-09-2026",
@@ -3891,7 +3891,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "2125"
+  "GateStartTime": "2121"
  },
  {
   "Date": "05-09-2026",
@@ -3908,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "1905"
+  "GateStartTime": "2004"
  },
  {
   "Date": "05-09-2026",
@@ -3925,7 +3925,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "2010"
+  "GateStartTime": "2014"
  },
  {
   "Date": "05-09-2026",
@@ -3942,7 +3942,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "1946"
+  "GateStartTime": "2027"
  },
  {
   "Date": "05-09-2026",
@@ -3976,7 +3976,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "36",
-  "GateStartTime": "2115"
+  "GateStartTime": "2117"
  },
  {
   "Date": "05-09-2026",
@@ -3993,7 +3993,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "2035"
+  "GateStartTime": "2029"
  },
  {
   "Date": "05-09-2026",
@@ -4010,7 +4010,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1857"
+  "GateStartTime": "2022"
  },
  {
   "Date": "05-09-2026",
@@ -4027,7 +4027,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "2045"
+  "GateStartTime": "2032"
  },
  {
   "Date": "05-09-2026",
@@ -4044,7 +4044,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "27",
-  "GateStartTime": "2045"
+  "GateStartTime": "2032"
  },
  {
   "Date": "05-09-2026",
@@ -4061,7 +4061,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "31",
-  "GateStartTime": "1937"
+  "GateStartTime": "2018"
  },
  {
   "Date": "05-09-2026",
@@ -4146,7 +4146,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "74",
-  "GateStartTime": "0505"
+  "GateStartTime": "0405"
  },
  {
   "Date": "06-09-2026",
@@ -4537,7 +4537,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "0535"
+  "GateStartTime": "0435"
  },
  {
   "Date": "06-09-2026",
@@ -4639,7 +4639,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "0605"
+  "GateStartTime": "0505"
  },
  {
   "Date": "06-09-2026",
@@ -4673,7 +4673,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "0615"
+  "GateStartTime": "0515"
  },
  {
   "Date": "06-09-2026",
@@ -4724,7 +4724,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "57",
-  "GateStartTime": "0630"
+  "GateStartTime": "0530"
  },
  {
   "Date": "06-09-2026",
@@ -4741,7 +4741,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "0635"
+  "GateStartTime": "0535"
  },
  {
   "Date": "06-09-2026",
@@ -4809,7 +4809,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "0710"
+  "GateStartTime": "0610"
  },
  {
   "Date": "06-09-2026",
@@ -4860,7 +4860,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "0745"
+  "GateStartTime": "0645"
  },
  {
   "Date": "06-09-2026",
@@ -4979,7 +4979,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "0850"
+  "GateStartTime": "0855"
  },
  {
   "Date": "06-09-2026",
@@ -5081,7 +5081,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "0900"
+  "GateStartTime": "0800"
  },
  {
   "Date": "06-09-2026",
@@ -6543,7 +6543,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "1335"
+  "GateStartTime": "1300"
  },
  {
   "Date": "06-09-2026",
@@ -6594,7 +6594,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "1340"
+  "GateStartTime": "1240"
  },
  {
   "Date": "06-09-2026",

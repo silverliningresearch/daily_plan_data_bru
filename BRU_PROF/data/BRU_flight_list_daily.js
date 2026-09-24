@@ -2055,7 +2055,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "1140"
+  "GateStartTime": "1200"
  },
  {
   "Date": "24-09-2026",
@@ -2157,7 +2157,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "19",
-  "GateStartTime": "1205"
+  "GateStartTime": "1206"
  },
  {
   "Date": "24-09-2026",
@@ -2258,8 +2258,8 @@
   "Airline": "Ryanair",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "31",
-  "GateStartTime": "1505"
+  "GateNumber": "60",
+  "GateStartTime": "1605"
  },
  {
   "Date": "24-09-2026",
@@ -2276,7 +2276,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "37",
-  "GateStartTime": "1156"
+  "GateStartTime": "1236"
  },
  {
   "Date": "24-09-2026",
@@ -2293,7 +2293,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "27",
-  "GateStartTime": "1250"
+  "GateStartTime": "1249"
  },
  {
   "Date": "24-09-2026",
@@ -2310,7 +2310,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "1255"
+  "GateStartTime": "1257"
  },
  {
   "Date": "24-09-2026",
@@ -2327,7 +2327,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "1300"
+  "GateStartTime": "1317"
  },
  {
   "Date": "24-09-2026",
@@ -2344,7 +2344,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1300"
+  "GateStartTime": "1306"
  },
  {
   "Date": "24-09-2026",
@@ -2361,7 +2361,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "1305"
+  "GateStartTime": "1330"
  },
  {
   "Date": "24-09-2026",
@@ -2378,7 +2378,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "1313"
+  "GateStartTime": "1312"
  },
  {
   "Date": "24-09-2026",
@@ -2395,7 +2395,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "70",
-  "GateStartTime": "1334"
+  "GateStartTime": "1348"
  },
  {
   "Date": "24-09-2026",
@@ -2412,7 +2412,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "19",
-  "GateStartTime": "1310"
+  "GateStartTime": "1315"
  },
  {
   "Date": "24-09-2026",
@@ -2429,7 +2429,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "1320"
+  "GateStartTime": "1335"
  },
  {
   "Date": "24-09-2026",
@@ -2446,7 +2446,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "1320"
+  "GateStartTime": "1318"
  },
  {
   "Date": "24-09-2026",
@@ -2463,7 +2463,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "1335"
+  "GateStartTime": "1350"
  },
  {
   "Date": "24-09-2026",
@@ -2480,7 +2480,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "1335"
+  "GateStartTime": "1319"
  },
  {
   "Date": "24-09-2026",
@@ -2513,8 +2513,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "40",
-  "GateStartTime": "1340"
+  "GateNumber": "56",
+  "GateStartTime": "1405"
  },
  {
   "Date": "24-09-2026",
@@ -2548,7 +2548,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "1405"
+  "GateStartTime": "1430"
  },
  {
   "Date": "24-09-2026",
@@ -2565,7 +2565,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1410"
+  "GateStartTime": "1353"
  },
  {
   "Date": "24-09-2026",
@@ -2582,7 +2582,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "1415"
+  "GateStartTime": "1315"
  },
  {
   "Date": "24-09-2026",
@@ -2599,7 +2599,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "1415"
+  "GateStartTime": "1430"
  },
  {
   "Date": "24-09-2026",
@@ -2615,8 +2615,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "56",
-  "GateStartTime": "1415"
+  "GateNumber": "40",
+  "GateStartTime": "1350"
  },
  {
   "Date": "24-09-2026",
@@ -2701,7 +2701,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "1425"
+  "GateStartTime": "1325"
  },
  {
   "Date": "24-09-2026",
@@ -2735,7 +2735,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "1430"
+  "GateStartTime": "1330"
  },
  {
   "Date": "24-09-2026",
@@ -2752,7 +2752,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "1430"
+  "GateStartTime": "1435"
  },
  {
   "Date": "24-09-2026",
@@ -2769,7 +2769,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "1430"
+  "GateStartTime": "1510"
  },
  {
   "Date": "24-09-2026",
@@ -2786,7 +2786,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "31",
-  "GateStartTime": "1350"
+  "GateStartTime": "1343"
  },
  {
   "Date": "24-09-2026",
@@ -2853,8 +2853,8 @@
   "Airline": "AEGEAN",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
-  "GateStartTime": "1450"
+  "GateNumber": "53",
+  "GateStartTime": "1525"
  },
  {
   "Date": "24-09-2026",
@@ -2904,8 +2904,8 @@
   "Airline": "Egyptair",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "34",
-  "GateStartTime": "1505"
+  "GateNumber": "9",
+  "GateStartTime": "1755"
  },
  {
   "Date": "24-09-2026",
@@ -2922,7 +2922,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1506"
+  "GateStartTime": "1505"
  },
  {
   "Date": "24-09-2026",
@@ -2955,8 +2955,8 @@
   "Airline": "TAP Portugal",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "43",
-  "GateStartTime": "1510"
+  "GateNumber": "47",
+  "GateStartTime": "1525"
  },
  {
   "Date": "24-09-2026",
@@ -2974,74 +2974,6 @@
   "GateZone": "A",
   "GateNumber": "62",
   "GateStartTime": "1515"
- },
- {
-  "Date": "24-09-2026",
-  "Time": "1600",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F020",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "28",
-  "GateStartTime": "1325"
- },
- {
-  "Date": "24-09-2026",
-  "Time": "1600",
-  "Dest": "BKK",
-  "DestName": "Bangkok",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "T0F022",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "1",
-  "GateStartTime": "1325"
- },
- {
-  "Date": "24-09-2026",
-  "Time": "1600",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F081",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
- },
- {
-  "Date": "24-09-2026",
-  "Time": "1600",
-  "Dest": "AMS",
-  "DestName": "Amsterdam",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "S",
-  "FlightType": "J",
-  "Flight": "T0F082",
-  "AirlineCode": "T0F",
-  "Airline": "Test Company BAC",
-  "A_D": "D",
-  "GateZone": "A",
-  "GateNumber": "30",
-  "GateStartTime": "0000"
  },
  {
   "Date": "24-09-2026",
@@ -3142,7 +3074,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "53",
+  "GateNumber": "49",
   "GateStartTime": "1545"
  },
  {
@@ -3278,7 +3210,7 @@
   "Airline": "LOT Polish Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "47",
+  "GateNumber": "43",
   "GateStartTime": "1610"
  },
  {
@@ -3398,7 +3330,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "68",
-  "GateStartTime": "1645"
+  "GateStartTime": "1545"
  },
  {
   "Date": "24-09-2026",
@@ -3414,7 +3346,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "48",
+  "GateNumber": "56",
   "GateStartTime": "1655"
  },
  {
@@ -3450,6 +3382,74 @@
   "GateZone": "B",
   "GateNumber": "34",
   "GateStartTime": "1700"
+ },
+ {
+  "Date": "24-09-2026",
+  "Time": "1800",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F020",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "28",
+  "GateStartTime": "1525"
+ },
+ {
+  "Date": "24-09-2026",
+  "Time": "1800",
+  "Dest": "BKK",
+  "DestName": "Bangkok",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0F022",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "B",
+  "GateNumber": "1",
+  "GateStartTime": "1525"
+ },
+ {
+  "Date": "24-09-2026",
+  "Time": "1800",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F081",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
+ },
+ {
+  "Date": "24-09-2026",
+  "Time": "1800",
+  "Dest": "AMS",
+  "DestName": "Amsterdam",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "J",
+  "Flight": "T0F082",
+  "AirlineCode": "T0F",
+  "Airline": "Test Company BAC",
+  "A_D": "D",
+  "GateZone": "A",
+  "GateNumber": "30",
+  "GateStartTime": "0000"
  },
  {
   "Date": "24-09-2026",
@@ -3499,7 +3499,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "52",
+  "GateNumber": "48",
   "GateStartTime": "1725"
  },
  {
@@ -3840,7 +3840,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "14",
-  "GateStartTime": "1835"
+  "GateStartTime": "1750"
  },
  {
   "Date": "24-09-2026",
@@ -3857,7 +3857,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "1750"
+  "GateStartTime": "1650"
  },
  {
   "Date": "24-09-2026",
@@ -3874,7 +3874,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "1840"
+  "GateStartTime": "1845"
  },
  {
   "Date": "24-09-2026",
@@ -4248,7 +4248,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2016"
+  "GateStartTime": "2029"
  },
  {
   "Date": "24-09-2026",
@@ -4298,7 +4298,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "62",
+  "GateNumber": "60",
   "GateStartTime": "2010"
  },
  {
@@ -4366,7 +4366,7 @@
   "Airline": "TAP Portugal",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "47",
+  "GateNumber": "45",
   "GateStartTime": "2015"
  },
  {
@@ -4468,7 +4468,7 @@
   "Airline": "SAS",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "45",
+  "GateNumber": "49",
   "GateStartTime": "2025"
  },
  {
@@ -4570,7 +4570,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "53",
+  "GateNumber": "46",
   "GateStartTime": "2035"
  },
  {
@@ -5182,7 +5182,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "50",
+  "GateNumber": "31",
   "GateStartTime": "0630"
  },
  {
@@ -5403,7 +5403,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
+  "GateNumber": "56",
   "GateStartTime": "0845"
  },
  {
@@ -5488,7 +5488,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "56",
+  "GateNumber": "60",
   "GateStartTime": "0850"
  },
  {
@@ -5590,7 +5590,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "42",
+  "GateNumber": "35",
   "GateStartTime": "0900"
  },
  {
@@ -6168,7 +6168,7 @@
   "Airline": "Air Europa",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "42",
+  "GateNumber": "50",
   "GateStartTime": "1015"
  },
  {
@@ -6508,7 +6508,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "45",
+  "GateNumber": "54",
   "GateStartTime": "1110"
  },
  {
@@ -6712,7 +6712,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "44",
+  "GateNumber": "42",
   "GateStartTime": "1140"
  },
  {
@@ -6797,8 +6797,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "54",
-  "GateStartTime": "1145"
+  "GateNumber": "31",
+  "GateStartTime": "1200"
  },
  {
   "Date": "25-09-2026",
@@ -7052,7 +7052,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "48",
+  "GateNumber": "40",
   "GateStartTime": "1300"
  },
  {
@@ -7103,7 +7103,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "40",
+  "GateNumber": "44",
   "GateStartTime": "1305"
  },
  {
@@ -7154,7 +7154,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "42",
+  "GateNumber": "48",
   "GateStartTime": "1320"
  },
  {
@@ -7239,7 +7239,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "44",
+  "GateNumber": "42",
   "GateStartTime": "1340"
  },
  {
@@ -7307,7 +7307,7 @@
   "Airline": "Air Algerie",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "32",
+  "GateNumber": "7",
   "GateStartTime": "1415"
  },
  {
@@ -7426,7 +7426,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "7",
+  "GateNumber": "36",
   "GateStartTime": "1430"
  },
  {
@@ -7579,7 +7579,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "29",
+  "GateNumber": "32",
   "GateStartTime": "1455"
  },
  {
@@ -8888,7 +8888,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "68",
+  "GateNumber": "60",
   "GateStartTime": "2005"
  },
  {
@@ -9466,7 +9466,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "66",
+  "GateNumber": "68",
   "GateStartTime": "0515"
  },
  {
@@ -9483,7 +9483,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "27",
+  "GateNumber": "9",
   "GateStartTime": "0515"
  },
  {
@@ -9653,7 +9653,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "58",
+  "GateNumber": "66",
   "GateStartTime": "0530"
  },
  {
@@ -9925,7 +9925,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "60",
+  "GateNumber": "58",
   "GateStartTime": "0630"
  },
  {
@@ -10129,7 +10129,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "36",
+  "GateNumber": "60",
   "GateStartTime": "0850"
  },
  {
@@ -11149,7 +11149,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "42",
+  "GateNumber": "54",
   "GateStartTime": "1115"
  },
  {

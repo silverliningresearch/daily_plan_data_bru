@@ -3755,7 +3755,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "2020"
+  "GateStartTime": "2031"
  },
  {
   "Date": "30-09-2026",
@@ -3840,7 +3840,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "32",
-  "GateStartTime": "1944"
+  "GateStartTime": "2026"
  },
  {
   "Date": "30-09-2026",
@@ -3857,7 +3857,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "31",
-  "GateStartTime": "2017"
+  "GateStartTime": "2019"
  },
  {
   "Date": "30-09-2026",
@@ -3891,7 +3891,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "2010"
+  "GateStartTime": "2027"
  },
  {
   "Date": "30-09-2026",
@@ -3908,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "2010"
+  "GateStartTime": "2014"
  },
  {
   "Date": "30-09-2026",
@@ -3925,7 +3925,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "68",
-  "GateStartTime": "1957"
+  "GateStartTime": "2028"
  },
  {
   "Date": "30-09-2026",
@@ -3942,7 +3942,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "1949"
+  "GateStartTime": "2026"
  },
  {
   "Date": "30-09-2026",
@@ -3959,7 +3959,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "2015"
+  "GateStartTime": "2121"
  },
  {
   "Date": "30-09-2026",
@@ -3993,7 +3993,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "1954"
+  "GateStartTime": "2020"
  },
  {
   "Date": "30-09-2026",
@@ -4010,7 +4010,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "2035"
+  "GateStartTime": "2023"
  },
  {
   "Date": "30-09-2026",
@@ -4027,7 +4027,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "72",
-  "GateStartTime": "1953"
+  "GateStartTime": "2019"
  },
  {
   "Date": "30-09-2026",
@@ -4061,7 +4061,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "2025"
+  "GateStartTime": "2024"
  },
  {
   "Date": "30-09-2026",
@@ -4078,24 +4078,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "70",
-  "GateStartTime": "1948"
- },
- {
-  "Date": "30-09-2026",
-  "Time": "2110",
-  "Dest": "NDR",
-  "DestName": "Nador",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "TB2611",
-  "AirlineCode": "TB",
-  "Airline": "TUI fly",
-  "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "36",
-  "GateStartTime": "1925"
+  "GateStartTime": "2039"
  },
  {
   "Date": "30-09-2026",
@@ -4112,7 +4095,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "15",
-  "GateStartTime": "2030"
+  "GateStartTime": "2035"
  },
  {
   "Date": "30-09-2026",
@@ -4129,7 +4112,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2030"
+  "GateStartTime": "2022"
  },
  {
   "Date": "30-09-2026",
@@ -4146,7 +4129,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "2030"
+  "GateStartTime": "2012"
  },
  {
   "Date": "30-09-2026",
@@ -4163,7 +4146,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "14",
-  "GateStartTime": "2035"
+  "GateStartTime": "2010"
  },
  {
   "Date": "30-09-2026",
@@ -4180,7 +4163,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "2100"
+  "GateStartTime": "2111"
  },
  {
   "Date": "30-09-2026",
@@ -4197,7 +4180,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "27",
-  "GateStartTime": "2040"
+  "GateStartTime": "2043"
  },
  {
   "Date": "30-09-2026",
@@ -4214,7 +4197,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "1933"
+  "GateStartTime": "2017"
  },
  {
   "Date": "30-09-2026",
@@ -4231,7 +4214,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "2155"
+  "GateStartTime": "2203"
  },
  {
   "Date": "30-09-2026",
@@ -4248,7 +4231,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "38",
-  "GateStartTime": "1945"
+  "GateStartTime": "2046"
  },
  {
   "Date": "30-09-2026",
@@ -4265,7 +4248,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "40",
-  "GateStartTime": "2045"
+  "GateStartTime": "2043"
  },
  {
   "Date": "30-09-2026",
@@ -4286,6 +4269,23 @@
  },
  {
   "Date": "30-09-2026",
+  "Time": "2140",
+  "Dest": "NDR",
+  "DestName": "Nador",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "TB2611A",
+  "AirlineCode": "TB",
+  "Airline": "TUI fly",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "30-09-2026",
   "Time": "2145",
   "Dest": "DXB",
   "DestName": "Dubai",
@@ -4299,7 +4299,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "31",
-  "GateStartTime": "1932"
+  "GateStartTime": "2003"
  },
  {
   "Date": "30-09-2026",

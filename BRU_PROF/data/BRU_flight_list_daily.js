@@ -2723,23 +2723,6 @@
  {
   "Date": "17-10-2026",
   "Time": "1520",
-  "Dest": "DXB",
-  "DestName": "Dubai",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "EK184",
-  "AirlineCode": "EK",
-  "Airline": "Emirates",
-  "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "31",
-  "GateStartTime": "1407"
- },
- {
-  "Date": "17-10-2026",
-  "Time": "1520",
   "Dest": "LPA",
   "DestName": "Gran Canaria",
   "Next": "",
@@ -3351,23 +3334,6 @@
  },
  {
   "Date": "17-10-2026",
-  "Time": "1920",
-  "Dest": "KGL",
-  "DestName": "Kigali",
-  "Next": "CDG",
-  "NextName": "Paris CDG",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "WB701",
-  "AirlineCode": "WB",
-  "Airline": "RwandAir",
-  "A_D": "D",
-  "GateZone": "B",
-  "GateNumber": "38",
-  "GateStartTime": "1802"
- },
- {
-  "Date": "17-10-2026",
   "Time": "1925",
   "Dest": "BCN",
   "DestName": "Barcelona",
@@ -3721,7 +3687,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "1855"
+  "GateStartTime": "2001"
  },
  {
   "Date": "17-10-2026",
@@ -3738,7 +3704,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "2011"
+  "GateStartTime": "2016"
  },
  {
   "Date": "17-10-2026",
@@ -3755,7 +3721,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1905"
+  "GateStartTime": "2010"
  },
  {
   "Date": "17-10-2026",
@@ -3772,7 +3738,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "9",
-  "GateStartTime": "2010"
+  "GateStartTime": "2019"
  },
  {
   "Date": "17-10-2026",
@@ -3789,7 +3755,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "2010"
+  "GateStartTime": "2011"
  },
  {
   "Date": "17-10-2026",
@@ -3806,7 +3772,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "1953"
+  "GateStartTime": "2020"
  },
  {
   "Date": "17-10-2026",
@@ -3822,7 +3788,7 @@
   "Airline": "EasyJet Europe",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "33",
+  "GateNumber": "32",
   "GateStartTime": "2025"
  },
  {
@@ -3840,7 +3806,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "32",
-  "GateStartTime": "2035"
+  "GateStartTime": "2039"
  },
  {
   "Date": "17-10-2026",
@@ -3857,7 +3823,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "19",
-  "GateStartTime": "2035"
+  "GateStartTime": "2044"
  },
  {
   "Date": "17-10-2026",
@@ -3874,7 +3840,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "1934"
+  "GateStartTime": "2003"
  },
  {
   "Date": "17-10-2026",
@@ -3890,8 +3856,8 @@
   "Airline": "Ryanair",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "32",
-  "GateStartTime": "2045"
+  "GateNumber": "31",
+  "GateStartTime": "2036"
  },
  {
   "Date": "17-10-2026",
@@ -3908,7 +3874,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "36",
-  "GateStartTime": "1945"
+  "GateStartTime": "2041"
  },
  {
   "Date": "17-10-2026",
@@ -3925,7 +3891,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "2100"
+  "GateStartTime": "2102"
  },
  {
   "Date": "17-10-2026",
@@ -3942,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "2110"
+  "GateStartTime": "2128"
  },
  {
   "Date": "17-10-2026",
@@ -3959,7 +3925,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "37",
-  "GateStartTime": "1910"
+  "GateStartTime": "2023"
  },
  {
   "Date": "17-10-2026",
@@ -4095,7 +4061,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "17",
-  "GateStartTime": "0510"
+  "GateStartTime": "0410"
  },
  {
   "Date": "18-10-2026",
@@ -4214,7 +4180,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "63",
-  "GateStartTime": "0525"
+  "GateStartTime": "0425"
  },
  {
   "Date": "18-10-2026",
@@ -4281,8 +4247,8 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "44",
-  "GateStartTime": "0535"
+  "GateNumber": "50",
+  "GateStartTime": "0435"
  },
  {
   "Date": "18-10-2026",
@@ -4451,7 +4417,7 @@
   "Airline": "Brussels Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "50",
+  "GateNumber": "44",
   "GateStartTime": "0615"
  },
  {
@@ -4503,7 +4469,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "0635"
+  "GateStartTime": "0535"
  },
  {
   "Date": "18-10-2026",
@@ -4758,7 +4724,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "0820"
+  "GateStartTime": "0720"
  },
  {
   "Date": "18-10-2026",
@@ -4792,7 +4758,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "0845"
+  "GateStartTime": "0745"
  },
  {
   "Date": "18-10-2026",
@@ -4826,7 +4792,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "0850"
+  "GateStartTime": "0750"
  },
  {
   "Date": "18-10-2026",
@@ -4894,7 +4860,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "0900"
+  "GateStartTime": "0800"
  },
  {
   "Date": "18-10-2026",
@@ -4928,7 +4894,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "0905"
+  "GateStartTime": "0805"
  },
  {
   "Date": "18-10-2026",
@@ -5114,7 +5080,7 @@
   "Airline": "Flynas",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "29",
+  "GateNumber": "38",
   "GateStartTime": "0940"
  },
  {
@@ -5285,7 +5251,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1005"
+  "GateStartTime": "0905"
  },
  {
   "Date": "18-10-2026",
@@ -5403,7 +5369,7 @@
   "Airline": "Ryanair",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "5",
+  "GateNumber": "38",
   "GateStartTime": "1015"
  },
  {
@@ -5472,7 +5438,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "32",
-  "GateStartTime": "1025"
+  "GateStartTime": "0930"
  },
  {
   "Date": "18-10-2026",

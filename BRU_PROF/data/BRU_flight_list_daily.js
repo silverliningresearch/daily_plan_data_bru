@@ -3312,8 +3312,8 @@
   "Airline": "Croatia Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "59",
-  "GateStartTime": "2115"
+  "GateNumber": "70",
+  "GateStartTime": "2157"
  },
  {
   "Date": "03-11-2026",
@@ -3330,7 +3330,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "1959"
+  "GateStartTime": "2018"
  },
  {
   "Date": "03-11-2026",
@@ -3347,7 +3347,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "1948"
+  "GateStartTime": "2013"
  },
  {
   "Date": "03-11-2026",
@@ -3364,7 +3364,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2015"
+  "GateStartTime": "2028"
  },
  {
   "Date": "03-11-2026",
@@ -3381,7 +3381,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "72",
-  "GateStartTime": "1910"
+  "GateStartTime": "2004"
  },
  {
   "Date": "03-11-2026",
@@ -3398,7 +3398,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "2015"
+  "GateStartTime": "2019"
  },
  {
   "Date": "03-11-2026",
@@ -3414,8 +3414,8 @@
   "Airline": "EasyJet Europe",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "31",
-  "GateStartTime": "2105"
+  "GateNumber": "32",
+  "GateStartTime": "2125"
  },
  {
   "Date": "03-11-2026",
@@ -3432,7 +3432,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "1920"
+  "GateStartTime": "2018"
  },
  {
   "Date": "03-11-2026",
@@ -3449,7 +3449,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "1956"
+  "GateStartTime": "2030"
  },
  {
   "Date": "03-11-2026",
@@ -3466,7 +3466,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "2020"
+  "GateStartTime": "2019"
  },
  {
   "Date": "03-11-2026",
@@ -3483,7 +3483,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "1954"
+  "GateStartTime": "2026"
  },
  {
   "Date": "03-11-2026",
@@ -3500,7 +3500,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "2020"
+  "GateStartTime": "2045"
  },
  {
   "Date": "03-11-2026",
@@ -3517,7 +3517,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "2025"
+  "GateStartTime": "2019"
  },
  {
   "Date": "03-11-2026",
@@ -3534,7 +3534,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "2025"
+  "GateStartTime": "2041"
  },
  {
   "Date": "03-11-2026",
@@ -3551,7 +3551,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "2030"
+  "GateStartTime": "2033"
  },
  {
   "Date": "03-11-2026",
@@ -3568,7 +3568,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "38",
-  "GateStartTime": "1930"
+  "GateStartTime": "2037"
  },
  {
   "Date": "03-11-2026",
@@ -3585,7 +3585,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "1941"
+  "GateStartTime": "2024"
  },
  {
   "Date": "03-11-2026",
@@ -3602,7 +3602,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "2045"
+  "GateStartTime": "2046"
  },
  {
   "Date": "03-11-2026",
@@ -3619,7 +3619,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "2105"
+  "GateStartTime": "2058"
  },
  {
   "Date": "03-11-2026",
@@ -3635,8 +3635,8 @@
   "Airline": "Vueling",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "45",
-  "GateStartTime": "2110"
+  "GateNumber": "63",
+  "GateStartTime": "2146"
  },
  {
   "Date": "03-11-2026",
@@ -3674,7 +3674,7 @@
  },
  {
   "Date": "03-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -3691,7 +3691,7 @@
  },
  {
   "Date": "03-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -3839,8 +3839,8 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "15",
-  "GateStartTime": "0525"
+  "GateNumber": "29",
+  "GateStartTime": "0425"
  },
  {
   "Date": "04-11-2026",
@@ -3941,7 +3941,7 @@
   "Airline": "Transavia Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "33",
+  "GateNumber": "32",
   "GateStartTime": "0545"
  },
  {
@@ -3976,7 +3976,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "0545"
+  "GateStartTime": "0445"
  },
  {
   "Date": "04-11-2026",
@@ -4027,7 +4027,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "0555"
+  "GateStartTime": "0455"
  },
  {
   "Date": "04-11-2026",
@@ -4077,7 +4077,7 @@
   "Airline": "Transavia Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "32",
+  "GateNumber": "33",
   "GateStartTime": "0515"
  },
  {
@@ -4163,7 +4163,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "0620"
+  "GateStartTime": "0520"
  },
  {
   "Date": "04-11-2026",
@@ -4418,7 +4418,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "0855"
+  "GateStartTime": "0755"
  },
  {
   "Date": "04-11-2026",
@@ -4469,7 +4469,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "0930"
+  "GateStartTime": "0919"
  },
  {
   "Date": "04-11-2026",
@@ -4809,7 +4809,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "0935"
+  "GateStartTime": "0835"
  },
  {
   "Date": "04-11-2026",
@@ -7495,7 +7495,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "27",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "05-11-2026",
@@ -34598,6 +34598,23 @@
  {
   "Date": "12-11-2026",
   "Time": "1115",
+  "Dest": "TUN",
+  "DestName": "Tunis",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "TU955",
+  "AirlineCode": "TU",
+  "Airline": "Tunisair",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "12-11-2026",
+  "Time": "1115",
   "Dest": "EWR",
   "DestName": "Newark",
   "Next": "",
@@ -34641,23 +34658,6 @@
   "Flight": "A3621",
   "AirlineCode": "A3",
   "Airline": "AEGEAN",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "12-11-2026",
-  "Time": "1125",
-  "Dest": "TUN",
-  "DestName": "Tunis",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "TU955",
-  "AirlineCode": "TU",
-  "Airline": "Tunisair",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -48827,6 +48827,23 @@
  {
   "Date": "16-11-2026",
   "Time": "1115",
+  "Dest": "TUN",
+  "DestName": "Tunis",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "TU955",
+  "AirlineCode": "TU",
+  "Airline": "Tunisair",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "16-11-2026",
+  "Time": "1115",
   "Dest": "EWR",
   "DestName": "Newark",
   "Next": "",
@@ -48870,23 +48887,6 @@
   "Flight": "A3621",
   "AirlineCode": "A3",
   "Airline": "AEGEAN",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "16-11-2026",
-  "Time": "1125",
-  "Dest": "TUN",
-  "DestName": "Tunis",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "TU955",
-  "AirlineCode": "TU",
-  "Airline": "Tunisair",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",

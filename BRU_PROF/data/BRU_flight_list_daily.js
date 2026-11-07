@@ -3284,6 +3284,23 @@
  {
   "Date": "07-11-2026",
   "Time": "2015",
+  "Dest": "CPH",
+  "DestName": "Copenhagen",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "S",
+  "FlightType": "G",
+  "Flight": "SK6272",
+  "AirlineCode": "SK",
+  "Airline": "SAS",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "07-11-2026",
+  "Time": "2015",
   "Dest": "ESB",
   "DestName": "Ankara",
   "Next": "",
@@ -3347,7 +3364,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "2020"
+  "GateStartTime": "2010"
  },
  {
   "Date": "07-11-2026",
@@ -3364,7 +3381,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1914"
+  "GateStartTime": "2018"
  },
  {
   "Date": "07-11-2026",
@@ -3398,7 +3415,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2025"
+  "GateStartTime": "2028"
  },
  {
   "Date": "07-11-2026",
@@ -3415,7 +3432,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "63",
-  "GateStartTime": "2030"
+  "GateStartTime": "2040"
  },
  {
   "Date": "07-11-2026",
@@ -3432,7 +3449,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "1901"
+  "GateStartTime": "2011"
  },
  {
   "Date": "07-11-2026",
@@ -3449,7 +3466,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "26",
-  "GateStartTime": "2040"
+  "GateStartTime": "2050"
  },
  {
   "Date": "07-11-2026",
@@ -3466,7 +3483,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "2100"
+  "GateStartTime": "2053"
  },
  {
   "Date": "07-11-2026",
@@ -3483,7 +3500,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "2110"
+  "GateStartTime": "2146"
  },
  {
   "Date": "07-11-2026",
@@ -3521,7 +3538,7 @@
  },
  {
   "Date": "07-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -3538,7 +3555,7 @@
  },
  {
   "Date": "07-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -3670,7 +3687,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "61",
-  "GateStartTime": "0520"
+  "GateStartTime": "0420"
  },
  {
   "Date": "08-11-2026",
@@ -3891,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "0545"
+  "GateStartTime": "0445"
  },
  {
   "Date": "08-11-2026",
@@ -3942,7 +3959,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "0600"
+  "GateStartTime": "0500"
  },
  {
   "Date": "08-11-2026",
@@ -4111,7 +4128,7 @@
   "Airline": "TUI fly",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "55",
+  "GateNumber": "59",
   "GateStartTime": "0715"
  },
  {
@@ -4231,7 +4248,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "0820"
+  "GateStartTime": "0720"
  },
  {
   "Date": "08-11-2026",
@@ -4401,7 +4418,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "0905"
+  "GateStartTime": "0805"
  },
  {
   "Date": "08-11-2026",
@@ -4435,7 +4452,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "0905"
+  "GateStartTime": "0805"
  },
  {
   "Date": "08-11-2026",
@@ -4520,7 +4537,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "53",
-  "GateStartTime": "0915"
+  "GateStartTime": "0815"
  },
  {
   "Date": "08-11-2026",
@@ -5080,7 +5097,7 @@
   "Airline": "Air Arabia Maroc",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "32",
+  "GateNumber": "9",
   "GateStartTime": "1040"
  },
  {
@@ -6135,7 +6152,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "63",
-  "GateStartTime": "1455"
+  "GateStartTime": "1400"
  },
  {
   "Date": "08-11-2026",
@@ -7733,7 +7750,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "0545"
+  "GateStartTime": "0445"
  },
  {
   "Date": "09-11-2026",

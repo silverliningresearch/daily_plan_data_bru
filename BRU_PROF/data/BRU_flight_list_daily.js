@@ -3568,7 +3568,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "1935"
+  "GateStartTime": "2010"
  },
  {
   "Date": "08-11-2026",
@@ -3602,7 +3602,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "28",
-  "GateStartTime": "1930"
+  "GateStartTime": "2105"
  },
  {
   "Date": "08-11-2026",
@@ -3653,7 +3653,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "47",
-  "GateStartTime": "1947"
+  "GateStartTime": "2009"
  },
  {
   "Date": "08-11-2026",
@@ -3670,7 +3670,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "52",
-  "GateStartTime": "1958"
+  "GateStartTime": "2002"
  },
  {
   "Date": "08-11-2026",
@@ -3687,7 +3687,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "7",
-  "GateStartTime": "1939"
+  "GateStartTime": "2004"
  },
  {
   "Date": "08-11-2026",
@@ -3704,7 +3704,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "31",
-  "GateStartTime": "2011"
+  "GateStartTime": "2013"
  },
  {
   "Date": "08-11-2026",
@@ -3721,7 +3721,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "69",
-  "GateStartTime": "2010"
+  "GateStartTime": "2020"
  },
  {
   "Date": "08-11-2026",
@@ -3738,7 +3738,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "2010"
+  "GateStartTime": "2021"
  },
  {
   "Date": "08-11-2026",
@@ -3755,7 +3755,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "72",
-  "GateStartTime": "1910"
+  "GateStartTime": "2005"
  },
  {
   "Date": "08-11-2026",
@@ -3772,7 +3772,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "1949"
+  "GateStartTime": "2021"
  },
  {
   "Date": "08-11-2026",
@@ -3789,7 +3789,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "2045"
+  "GateStartTime": "2050"
  },
  {
   "Date": "08-11-2026",
@@ -3806,7 +3806,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "2020"
+  "GateStartTime": "2019"
  },
  {
   "Date": "08-11-2026",
@@ -3823,7 +3823,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "1954"
+  "GateStartTime": "2020"
  },
  {
   "Date": "08-11-2026",
@@ -3840,7 +3840,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "2020"
+  "GateStartTime": "2028"
  },
  {
   "Date": "08-11-2026",
@@ -3857,7 +3857,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "1945"
+  "GateStartTime": "2025"
  },
  {
   "Date": "08-11-2026",
@@ -3874,7 +3874,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "2020"
+  "GateStartTime": "2033"
  },
  {
   "Date": "08-11-2026",
@@ -3891,7 +3891,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "10",
-  "GateStartTime": "2025"
+  "GateStartTime": "2031"
  },
  {
   "Date": "08-11-2026",
@@ -3908,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "54",
-  "GateStartTime": "1954"
+  "GateStartTime": "2015"
  },
  {
   "Date": "08-11-2026",
@@ -3925,7 +3925,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "45",
-  "GateStartTime": "2025"
+  "GateStartTime": "2046"
  },
  {
   "Date": "08-11-2026",
@@ -3959,7 +3959,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "14",
-  "GateStartTime": "2030"
+  "GateStartTime": "2041"
  },
  {
   "Date": "08-11-2026",
@@ -3976,7 +3976,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "1948"
+  "GateStartTime": "2010"
  },
  {
   "Date": "08-11-2026",
@@ -3993,7 +3993,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "2040"
+  "GateStartTime": "2041"
  },
  {
   "Date": "08-11-2026",
@@ -4010,7 +4010,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "2045"
+  "GateStartTime": "2048"
  },
  {
   "Date": "08-11-2026",
@@ -4027,7 +4027,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "2110"
+  "GateStartTime": "2106"
  },
  {
   "Date": "08-11-2026",
@@ -4065,7 +4065,7 @@
  },
  {
   "Date": "08-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -4082,7 +4082,7 @@
  },
  {
   "Date": "08-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -4197,7 +4197,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "27",
-  "GateStartTime": "0525"
+  "GateStartTime": "0425"
  },
  {
   "Date": "09-11-2026",
@@ -4248,7 +4248,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "0530"
+  "GateStartTime": "0430"
  },
  {
   "Date": "09-11-2026",
@@ -4265,7 +4265,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "17",
-  "GateStartTime": "0530"
+  "GateStartTime": "0430"
  },
  {
   "Date": "09-11-2026",
@@ -4350,7 +4350,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "0550"
+  "GateStartTime": "0450"
  },
  {
   "Date": "09-11-2026",
@@ -4418,7 +4418,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "0600"
+  "GateStartTime": "0500"
  },
  {
   "Date": "09-11-2026",
@@ -4519,8 +4519,8 @@
   "Airline": "Transavia Airlines",
   "A_D": "D",
   "GateZone": "A",
-  "GateNumber": "34",
-  "GateStartTime": "0645"
+  "GateNumber": "32",
+  "GateStartTime": "0545"
  },
  {
   "Date": "09-11-2026",
@@ -4639,7 +4639,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "0840"
+  "GateStartTime": "0842"
  },
  {
   "Date": "09-11-2026",
@@ -4690,7 +4690,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "56",
-  "GateStartTime": "0845"
+  "GateStartTime": "0745"
  },
  {
   "Date": "09-11-2026",
@@ -4707,7 +4707,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "0850"
+  "GateStartTime": "0800"
  },
  {
   "Date": "09-11-2026",
@@ -5931,7 +5931,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "31",
-  "GateStartTime": "1120"
+  "GateStartTime": "1105"
  },
  {
   "Date": "09-11-2026",
@@ -7886,7 +7886,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "10-11-2026",

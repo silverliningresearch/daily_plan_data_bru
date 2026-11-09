@@ -2,7 +2,7 @@
 [
  {
   "Date": "09-11-2026",
-  "Time": "0300",
+  "Time": "0500",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -15,11 +15,11 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "28",
-  "GateStartTime": "0125"
+  "GateStartTime": "0325"
  },
  {
   "Date": "09-11-2026",
-  "Time": "0300",
+  "Time": "0500",
   "Dest": "BKK",
   "DestName": "Bangkok",
   "Next": "",
@@ -32,11 +32,11 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "1",
-  "GateStartTime": "0125"
+  "GateStartTime": "0325"
  },
  {
   "Date": "09-11-2026",
-  "Time": "0300",
+  "Time": "0500",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -53,7 +53,7 @@
  },
  {
   "Date": "09-11-2026",
-  "Time": "0300",
+  "Time": "0500",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -100,7 +100,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "09-11-2026",
@@ -117,7 +117,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "51",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "09-11-2026",
@@ -287,7 +287,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "0545"
+  "GateStartTime": "0445"
  },
  {
   "Date": "09-11-2026",
@@ -3188,9 +3188,43 @@
   "NextName": "",
   "Schengen": "N",
   "FlightType": "J",
+  "Flight": "T0B001",
+  "AirlineCode": "T0B",
+  "Airline": "Test Company Aviapar",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "09-11-2026",
+  "Time": "1900",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
   "Flight": "T0R001",
   "AirlineCode": "T0R",
   "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "09-11-2026",
+  "Time": "1900",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0S001",
+  "AirlineCode": "T0S",
+  "Airline": "Test Company Alyzia",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -6581,6 +6615,23 @@
  },
  {
   "Date": "10-11-2026",
+  "Time": "1900",
+  "Dest": "BAG",
+  "DestName": "Baguio",
+  "Next": "",
+  "NextName": "",
+  "Schengen": "N",
+  "FlightType": "J",
+  "Flight": "T0R001",
+  "AirlineCode": "T0R",
+  "Airline": "Test Company Bagage",
+  "A_D": "D",
+  "GateZone": "",
+  "GateNumber": "",
+  "GateStartTime": null
+ },
+ {
+  "Date": "10-11-2026",
   "Time": "1905",
   "Dest": "DUB",
   "DestName": "Dublin",
@@ -9603,7 +9654,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "29",
-  "GateStartTime": "1455"
+  "GateStartTime": "1400"
  },
  {
   "Date": "11-11-2026",

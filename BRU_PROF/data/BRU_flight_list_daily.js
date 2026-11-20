@@ -3449,7 +3449,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "63",
-  "GateStartTime": "1955"
+  "GateStartTime": "2012"
  },
  {
   "Date": "20-11-2026",
@@ -3466,7 +3466,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "66",
-  "GateStartTime": "1930"
+  "GateStartTime": "2006"
  },
  {
   "Date": "20-11-2026",
@@ -3483,7 +3483,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "58",
-  "GateStartTime": "1953"
+  "GateStartTime": "2002"
  },
  {
   "Date": "20-11-2026",
@@ -3500,7 +3500,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "9",
-  "GateStartTime": "2005"
+  "GateStartTime": "2013"
  },
  {
   "Date": "20-11-2026",
@@ -3517,7 +3517,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "2008"
+  "GateStartTime": "2013"
  },
  {
   "Date": "20-11-2026",
@@ -3534,7 +3534,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "70",
-  "GateStartTime": "1928"
+  "GateStartTime": "2010"
  },
  {
   "Date": "20-11-2026",
@@ -3551,7 +3551,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "48",
-  "GateStartTime": "1953"
+  "GateStartTime": "2022"
  },
  {
   "Date": "20-11-2026",
@@ -3568,7 +3568,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "10",
-  "GateStartTime": "2015"
+  "GateStartTime": "2016"
  },
  {
   "Date": "20-11-2026",
@@ -3585,7 +3585,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "42",
-  "GateStartTime": "1950"
+  "GateStartTime": "2014"
  },
  {
   "Date": "20-11-2026",
@@ -3602,7 +3602,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "33",
-  "GateStartTime": "2020"
+  "GateStartTime": "2024"
  },
  {
   "Date": "20-11-2026",
@@ -3619,7 +3619,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "60",
-  "GateStartTime": "1956"
+  "GateStartTime": "2021"
  },
  {
   "Date": "20-11-2026",
@@ -3636,7 +3636,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "69",
-  "GateStartTime": "2020"
+  "GateStartTime": "2022"
  },
  {
   "Date": "20-11-2026",
@@ -3653,7 +3653,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "64",
-  "GateStartTime": "2020"
+  "GateStartTime": "2019"
  },
  {
   "Date": "20-11-2026",
@@ -3670,7 +3670,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "44",
-  "GateStartTime": "2020"
+  "GateStartTime": "2034"
  },
  {
   "Date": "20-11-2026",
@@ -3721,7 +3721,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "46",
-  "GateStartTime": "2115"
+  "GateStartTime": "2106"
  },
  {
   "Date": "20-11-2026",
@@ -3738,7 +3738,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "49",
-  "GateStartTime": "2025"
+  "GateStartTime": "2040"
  },
  {
   "Date": "20-11-2026",
@@ -3755,7 +3755,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "67",
-  "GateStartTime": "2030"
+  "GateStartTime": "2049"
  },
  {
   "Date": "20-11-2026",
@@ -3772,7 +3772,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "11",
-  "GateStartTime": "2030"
+  "GateStartTime": "2043"
  },
  {
   "Date": "20-11-2026",
@@ -3789,7 +3789,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "5",
-  "GateStartTime": "1931"
+  "GateStartTime": "2035"
  },
  {
   "Date": "20-11-2026",
@@ -3806,7 +3806,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "43",
-  "GateStartTime": "2110"
+  "GateStartTime": "2113"
  },
  {
   "Date": "20-11-2026",
@@ -3844,7 +3844,7 @@
  },
  {
   "Date": "20-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -3861,7 +3861,7 @@
  },
  {
   "Date": "20-11-2026",
-  "Time": "2300",
+  "Time": "2359",
   "Dest": "AMS",
   "DestName": "Amsterdam",
   "Next": "",
@@ -3891,7 +3891,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "9",
-  "GateStartTime": "0510"
+  "GateStartTime": "0410"
  },
  {
   "Date": "21-11-2026",
@@ -3908,7 +3908,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "32",
-  "GateStartTime": "0515"
+  "GateStartTime": "0415"
  },
  {
   "Date": "21-11-2026",
@@ -4009,7 +4009,7 @@
   "Airline": "Transavia Airlines",
   "A_D": "D",
   "GateZone": "B",
-  "GateNumber": "29",
+  "GateNumber": "15",
   "GateStartTime": "0530"
  },
  {
@@ -4044,7 +4044,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "62",
-  "GateStartTime": "0530"
+  "GateStartTime": "0430"
  },
  {
   "Date": "21-11-2026",
@@ -4078,7 +4078,7 @@
   "A_D": "D",
   "GateZone": "B",
   "GateNumber": "27",
-  "GateStartTime": "0535"
+  "GateStartTime": "0435"
  },
  {
   "Date": "21-11-2026",
@@ -4129,7 +4129,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "40",
-  "GateStartTime": "0545"
+  "GateStartTime": "0445"
  },
  {
   "Date": "21-11-2026",
@@ -4180,7 +4180,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "34",
-  "GateStartTime": "0600"
+  "GateStartTime": "0500"
  },
  {
   "Date": "21-11-2026",
@@ -4248,7 +4248,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "55",
-  "GateStartTime": "0615"
+  "GateStartTime": "0515"
  },
  {
   "Date": "21-11-2026",
@@ -4265,7 +4265,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "50",
-  "GateStartTime": "0615"
+  "GateStartTime": "0515"
  },
  {
   "Date": "21-11-2026",
@@ -4299,7 +4299,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "0630"
+  "GateStartTime": "0530"
  },
  {
   "Date": "21-11-2026",
@@ -4554,7 +4554,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "31",
-  "GateStartTime": "0900"
+  "GateStartTime": "0800"
  },
  {
   "Date": "21-11-2026",
@@ -6917,7 +6917,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "67",
-  "GateStartTime": "0525"
+  "GateStartTime": "0425"
  },
  {
   "Date": "22-11-2026",
@@ -7121,7 +7121,7 @@
   "A_D": "D",
   "GateZone": "A",
   "GateNumber": "59",
-  "GateStartTime": "0615"
+  "GateStartTime": "0515"
  },
  {
   "Date": "22-11-2026",
@@ -28460,23 +28460,6 @@
  },
  {
   "Date": "28-11-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "28-11-2026",
   "Time": "0825",
   "Dest": "FRA",
   "DestName": "Frankfurt",
@@ -32948,23 +32931,6 @@
  },
  {
   "Date": "29-11-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "29-11-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -36909,23 +36875,6 @@
  },
  {
   "Date": "30-11-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "30-11-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -38619,23 +38568,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "01-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -43335,23 +43267,6 @@
  },
  {
   "Date": "02-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "02-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -45130,23 +45045,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "03-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -50509,23 +50407,6 @@
  },
  {
   "Date": "04-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "04-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -52457,23 +52338,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "05-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -56935,23 +56799,6 @@
  },
  {
   "Date": "06-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "06-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -60828,23 +60675,6 @@
  },
  {
   "Date": "07-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "07-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -62521,23 +62351,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "08-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -67254,23 +67067,6 @@
  },
  {
   "Date": "09-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "09-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -69083,23 +68879,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "10-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -74411,23 +74190,6 @@
  },
  {
   "Date": "11-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "11-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -76376,23 +76138,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "12-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -80922,23 +80667,6 @@
  },
  {
   "Date": "13-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "13-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -84747,23 +84475,6 @@
  },
  {
   "Date": "14-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "14-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -86457,23 +86168,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "15-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -91428,23 +91122,6 @@
  },
  {
   "Date": "16-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "16-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -93308,23 +92985,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "17-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -98993,23 +98653,6 @@
  },
  {
   "Date": "18-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "18-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -101162,23 +100805,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "19-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -106218,23 +105844,6 @@
  },
  {
   "Date": "20-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "20-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -110230,23 +109839,6 @@
  },
  {
   "Date": "21-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "21-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -112161,23 +111753,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "22-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -117353,23 +116928,6 @@
  },
  {
   "Date": "23-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "23-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -119182,23 +118740,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "24-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -123643,23 +123184,6 @@
  },
  {
   "Date": "25-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "25-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -125370,23 +124894,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "26-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -130069,23 +129576,6 @@
  },
  {
   "Date": "27-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "27-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -133945,23 +133435,6 @@
  },
  {
   "Date": "28-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "28-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -135859,23 +135332,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "29-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
@@ -140932,23 +140388,6 @@
  },
  {
   "Date": "30-12-2026",
-  "Time": "1455",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR194",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "30-12-2026",
   "Time": "1500",
   "Dest": "GVA",
   "DestName": "Geneva",
@@ -142727,23 +142166,6 @@
   "Flight": "SN3633",
   "AirlineCode": "SN",
   "Airline": "Brussels Airlines",
-  "A_D": "D",
-  "GateZone": "",
-  "GateNumber": "",
-  "GateStartTime": null
- },
- {
-  "Date": "31-12-2026",
-  "Time": "0820",
-  "Dest": "DOH",
-  "DestName": "Doha",
-  "Next": "",
-  "NextName": "",
-  "Schengen": "N",
-  "FlightType": "J",
-  "Flight": "QR196",
-  "AirlineCode": "QR",
-  "Airline": "Qatar Airways",
   "A_D": "D",
   "GateZone": "",
   "GateNumber": "",
